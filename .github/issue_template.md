@@ -1,9 +1,3 @@
-App version: X.X.X
-Device: "Your device"
-Android: X.X
+App version: Device: Android Version:
 
-## Issue/Request description
-
-## Expected result
-
-## Actual result
+Issue/Request description
