@@ -2,66 +2,65 @@
     <!-- Titles and internal items -->
     <string name="app_name">Androoster</string>
     <string name="app_name_pro">Androoster Pro</string>
-    <string name="app_name_pro_version">Versione Peo</string>
-    <string name="app_name_normal_version">Versione Normale</string>
+    <string name="app_name_pro_version">Pro Version</string>
+    <string name="app_name_normal_version">Normal Version</string>
     <string name="app_name_suffix_pro">pro</string>
 
-    <string name="app_name_official">Ufficiale</string>
+    <string name="app_name_official">Official</string>
     <string name="app_name_beta">Beta</string>
 
-    <string name="dont_ask_again">Non chiedere di nuovo</string>
-    <string name="click_again_exit">Tocca di nuovo per uscire</string>
-    <string name="reboot_to_take_effect">Riavvia per applicare questo tweak</string>
-    <string name="click_again_to_exit">Tocca di nuovo per uscire</string>
-    <string name="widget_loading">Caricamento...</string>
-    <string name="notification_channel_boot">Notifica di avvio</string>
+    <string name="dont_ask_again">Don\'t ask again</string>
+    <string name="reboot_to_take_effect">Reboot required to apply this tweak</string>
+    <string name="click_again_to_exit">Click again to exit</string>
+    <string name="widget_loading">Loading...</string>
+    <string name="notification_channel_boot">Boot notification</string>
 
     <string name="action_ok">OK</string>
-    <string name="action_start">INIZIA</string>
-    <string name="action_confirm">CONFERMA</string>
-    <string name="action_continue">CONTINUA</string>
-    <string name="action_set">SETTA</string>
-    <string name="action_use">USA<string>
-    <string name="action_later">DOPO</string>
-    <string name="action_wipe">CANCELLA</string>
-    <string name="action_ignore">IGNORA</string>
-    <string name="action_exit">ESCI</string>
-    <string name="action_open">APRI</string>
-    <string name="action_shutdown">ESCI</string>
-    <string name="action_open_store">APRI STORE</string>
-    <string name="action_install">INSTALLA</string>
-    <string name="action_enter">ENTRA</string>
-    <string name="action_grant">CONCEDI</string>
-    <string name="action_open_settings">IMPOSTAZIONI</string>
-    <string name="action_deny">NEGA</string>
-    <string name="action_edit">MODIFICA</string>
-    <string name="action_copied">Testo copiato</string>
+    <string name="action_start">START</string>
+    <string name="action_confirm">CONFIRM</string>
+    <string name="action_continue">CONTINUE</string>
+    <string name="action_set">SET</string>
+    <string name="action_use">USE</string>
+    <string name="action_later">LATER</string>
+    <string name="action_wipe">WIPE</string>
+    <string name="action_ignore">IGNORE</string>
+    <string name="action_exit">EXIT</string>
+    <string name="action_open">OPEN</string>
+    <string name="action_shutdown">SHUTDOWN</string>
+    <string name="action_open_store">OPEN STORE</string>
+    <string name="action_install">INSTALL</string>
+    <string name="action_enter">ENTER</string>
+    <string name="action_grant">GRANT</string>
+    <string name="action_open_settings">SETTINGS</string>
+    <string name="action_deny">DENY</string>
+    <string name="action_edit">EDIT</string>
+    <string name="action_copied">Text copied</string>
 
-    <string name="state_enabled">Abilitato</string>
-    <string name="state_disabled">Disabilitato</string>
-    <string name="may_not_work">Potrebbe non funzionare su alcuni dispositivi</string>
+    <string name="state_enabled">Enabled</string>
+    <string name="state_disabled">Disabled</string>
+    <string name="may_not_work">May not work on every device</string>
 
     <string name="activity_title_cpu">CPU</string>
     <string name="activity_title_ram">RAM</string>
-    <string name="activity_title_security">Sicurezza</string>
-    <string name="activity_title_battery">Batteria</string>
+    <string name="activity_title_security">Security</string>
+    <string name="activity_title_battery">Battery</string>
     <string name="activity_title_kernel">Kernel</string>
     <string name="activity_title_network">Internet</string>
-    <string name="activity_title_storage">Memoria</string>
+    <string name="activity_title_storage">Storage</string>
     <string name="activity_title_hardware">Hardware</string>
-    <string name="activity_title_graphic">Grafica</string>
+    <string name="activity_title_graphic">Graphic</string>
     <string name="activity_title_debug">Debug</string>
     <string name="activity_title_gps">GPS</string>
-    <string name="title_activity_general">Generali</string>
-    <string name="title_activity_uibackup">Backup</string>
-    <string name="title_activity_settings">Impostazioni</string>
+    <string name="title_activity_general">General Tweaks</string>
+    <string name="title_activity_uibackup">Backups</string>
+    <string name="title_activity_settings">Settings</string>
 
 
-    <string name="action_open_drawer">Apri il drawer</string>
-    <string name="action_reboot">Riavvia</string>
+    <string name="action_open_drawer">Open Drawer</string>
+    <string name="action_reboot">Reboot</string>
 
-    <string name="navigation_drawer_open">Apri il drawer</string>
-    <string name="navigation_drawer_close">Chiudi il drawer</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
 
 
     <string name="drawer_dashboard">Dashboard</string>
@@ -94,7 +93,8 @@
     <string name="not_found">Not found</string>
 
     <string name="pirate_apps_title">Pirate apps installed</string>
-    <string name="pirate_apps_content">You wont be able to make a purchase until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
+    <string name="pirate_apps_content">You won\'t be able to make a purchase until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
+    <string name="pirate_apps_content_restore">You wont\' be able to make restore your purchases untill you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
 
     <string name="sign_error_title">Custom signature found</string>
     <string name="sign_error_content">You are not allowed to perform testing on this build, neither to use a recompiled version.</string>

@@ -10,7 +10,6 @@
     <string name="app_name_beta">Beta</string>
 
     <string name="dont_ask_again">Don\'t ask again</string>
-    <string name="click_again_exit">Click again to exit</string>
     <string name="reboot_to_take_effect">Reboot required to apply this tweak</string>
     <string name="click_again_to_exit">Click again to exit</string>
     <string name="widget_loading">Loading...</string>
@@ -94,7 +93,8 @@
     <string name="not_found">Not found</string>
 
     <string name="pirate_apps_title">Pirate apps installed</string>
-    <string name="pirate_apps_content">You wont be able to make a purchase until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
+    <string name="pirate_apps_content">You won\'t be able to make a purchase until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
+    <string name="pirate_apps_content_restore">You wont\' be able to make restore your purchases untill you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
 
     <string name="sign_error_title">Custom signature found</string>
     <string name="sign_error_content">You are not allowed to perform testing on this build, neither to use a recompiled version.</string>
