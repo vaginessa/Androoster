@@ -94,7 +94,7 @@
 
     <string name="pirate_apps_title">Pirate apps installed</string>
     <string name="pirate_apps_content">You won\'t be able to make a purchase until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
-    <string name="pirate_apps_content_restore">You wont\' be able to make restore your purchases untill you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
+    <string name="pirate_apps_content_restore">You wont\' be able to make restore your purchases until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
 
     <string name="sign_error_title">Custom signature found</string>
     <string name="sign_error_content">You are not allowed to perform testing on this build, neither to use a recompiled version.</string>
@@ -251,16 +251,16 @@
     <!-- CPU -->
     <string name="cpu_widget_title">CPU</string>
 
-    <string name="cpu_governor_title">Governor</string>
-    <string name="cpu_governor_content">Defines the way and the time the CPU changes it\'s frequency</string>
+    <string name="cpu_governor_content_ondemand">One of the most used governor on linux old times: when your device is getting overloaded the CPU frequenzy will be ported at its max. Now it\'s getting replaced by interactive</string>
+    <string name="cpu_governor_content_ondemandx">Little improvements at the basic ondemand governor</string>
+    <string name="cpu_governor_content_performance">The CPU is always set to its maximum frequency</string>
+    <string name="cpu_governor_content_powersave">The CPU is always set to its minimum frequency</string>
+    <string name="cpu_governor_content_conservative">It slightly raises CPU performances when needed. Useful on old devices, reduced performances and amplified battery life</string>
+    <string name="cpu_governor_content_userspace">The frequency is decided by the applications that are in execution</string>
+    <string name="cpu_governor_content_minmax">Just uses max and min frequencies for handling the cpu, no middle ones</string>
+    <string name="cpu_governor_content_interactive">Default and best governor for most of the devices. Cpu frequency switch are ruled by a timer and user interaction</string>
+    <string name="cpu_governor_content_unknown">Custom kernel governor, not recognized by Androoster</string>
 
-    <string name="cpu_overclock_title">Overclock</string>
-    <string name="cpu_overclock_max">Max speed</string>
-    <string name="cpu_overclock_min">Min speed</string>
-    <string name="cpu_max_error">The max frequency is too low</string>
-    <string name="cpu_max_prefix">Max clock now is</string>
-    <string name="cpu_min_error">The min frequency is too high</string>
-    <string name="cpu_min_prefix">Min clock now is</string>
 
     <string name="cpu_cache_title">App cache optimization</string>
     <string name="cpu_cache_content">Enables dalvik-cache built-in optimization features</string>
@@ -306,7 +306,7 @@
     <string name="cpu_governor_7_switch">Governor switched to ondemand</string>
 
     <string name="cpu_warning_title">Warning</string>
-    <string name="cpu_warning_content">If the governor/cpu frequency is not applied is because your kernel does not support it\nThe current governor is shown in the table here above</string>
+    <string name="cpu_warning_content">If the governor is not applied is because your kernel does not support it\nThe current governor is shown in the table here above</string>
     <!-- /CPU -->
 
 
