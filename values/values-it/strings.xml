@@ -2,120 +2,120 @@
     <!-- Titles and internal items -->
     <string name="app_name">Androoster</string>
     <string name="app_name_pro">Androoster Pro</string>
-    <string name="app_name_pro_version">Pro Version</string>
-    <string name="app_name_normal_version">Normal Version</string>
+    <string name="app_name_pro_version">Versione Pro</string>
+    <string name="app_name_normal_version">Versione normale</string>
     <string name="app_name_suffix_pro">pro</string>
 
-    <string name="app_name_official">Official</string>
+    <string name="app_name_official">Ufficiale</string>
     <string name="app_name_beta">Beta</string>
 
-    <string name="dont_ask_again">Don\'t ask again</string>
-    <string name="reboot_to_take_effect">Reboot required to apply this tweak</string>
-    <string name="click_again_to_exit">Click again to exit</string>
-    <string name="widget_loading">Loading...</string>
-    <string name="notification_channel_boot">Boot notification</string>
+    <string name="dont_ask_again">Non chiedere più</string>
+    <string name="reboot_to_take_effect">E' necessario riavviare per applicare il tweak</string>
+    <string name="click_again_to_exit">Clicca di nuovo per uscire</string>
+    <string name="widget_loading">Caricamento...</string>
+    <string name="notification_channel_boot">Notifica all'avvio</string>
 
     <string name="action_ok">OK</string>
-    <string name="action_start">START</string>
-    <string name="action_confirm">CONFIRM</string>
-    <string name="action_continue">CONTINUE</string>
-    <string name="action_set">SET</string>
-    <string name="action_use">USE</string>
-    <string name="action_later">LATER</string>
-    <string name="action_wipe">WIPE</string>
-    <string name="action_ignore">IGNORE</string>
-    <string name="action_exit">EXIT</string>
-    <string name="action_open">OPEN</string>
-    <string name="action_shutdown">SHUTDOWN</string>
-    <string name="action_open_store">OPEN STORE</string>
-    <string name="action_install">INSTALL</string>
-    <string name="action_enter">ENTER</string>
-    <string name="action_grant">GRANT</string>
-    <string name="action_open_settings">SETTINGS</string>
-    <string name="action_deny">DENY</string>
-    <string name="action_edit">EDIT</string>
-    <string name="action_copied">Text copied</string>
+    <string name="action_start">INIZIA</string>
+    <string name="action_confirm">CONFERMA</string>
+    <string name="action_continue">CONTINUA</string>
+    <string name="action_set">IMPOSTA</string>
+    <string name="action_use">USA</string>
+    <string name="action_later">DOPO</string>
+    <string name="action_wipe">PULISCI</string>
+    <string name="action_ignore">IGNORA</string>
+    <string name="action_exit">ESCI</string>
+    <string name="action_open">APRI</string>
+    <string name="action_shutdown">SPEGNI</string>
+    <string name="action_open_store">APRI STORE</string>
+    <string name="action_install">INSTALLA</string>
+    <string name="action_enter">ENTRA</string>
+    <string name="action_grant">CONCEDI</string>
+    <string name="action_open_settings">IMPOSTAZIONI</string>
+    <string name="action_deny">NEGA</string>
+    <string name="action_edit">MODIFICA</string>
+    <string name="action_copied">Testo copiato</string>
 
-    <string name="state_enabled">Enabled</string>
-    <string name="state_disabled">Disabled</string>
-    <string name="may_not_work">May not work on every device</string>
+    <string name="state_enabled">Abilitato</string>
+    <string name="state_disabled">Disabilitato</string>
+    <string name="may_not_work">Potrebbe non funzionare su tutti i dispositivi</string>
 
     <string name="activity_title_cpu">CPU</string>
     <string name="activity_title_ram">RAM</string>
-    <string name="activity_title_security">Security</string>
-    <string name="activity_title_battery">Battery</string>
+    <string name="activity_title_security">Sicurezza</string>
+    <string name="activity_title_battery">Batteria</string>
     <string name="activity_title_kernel">Kernel</string>
     <string name="activity_title_network">Internet</string>
-    <string name="activity_title_storage">Storage</string>
+    <string name="activity_title_storage">Spazio</string>
     <string name="activity_title_hardware">Hardware</string>
-    <string name="activity_title_graphic">Graphic</string>
+    <string name="activity_title_graphic">Grafica</string>
     <string name="activity_title_debug">Debug</string>
     <string name="activity_title_gps">GPS</string>
-    <string name="title_activity_general">General Tweaks</string>
-    <string name="title_activity_uibackup">Backups</string>
-    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_general">Modifiche generali</string>
+    <string name="title_activity_uibackup">Backup</string>
+    <string name="title_activity_settings">Impostazioni</string>
 
 
-    <string name="action_open_drawer">Open Drawer</string>
-    <string name="action_reboot">Reboot</string>
+    <string name="action_open_drawer">Apri Drawer</string>
+    <string name="action_reboot">Riavvia</string>
 
-    <string name="navigation_drawer_open">Open Drawer</string>
-    <string name="navigation_drawer_close">Close Drawer</string>
+    <string name="navigation_drawer_open">Apri Drawer</string>
+    <string name="navigation_drawer_close">Chiudi Drawer</string>
 
 
     <string name="drawer_dashboard">Dashboard</string>
     <string name="drawer_cpu">CPU</string>
     <string name="drawer_ram">RAM</string>
-    <string name="drawer_battery">Battery</string>
+    <string name="drawer_battery">Batteria</string>
     <string name="drawer_kernel">Kernel</string>
-    <string name="drawer_tweaks">General Tweaks</string>
-    <string name="drawer_storage">Storage</string>
+    <string name="drawer_tweaks">Modifiche generali</string>
+    <string name="drawer_storage">Spazio</string>
     <string name="drawer_net">Internet</string>
     <string name="drawer_debug">Debug</string>
-    <string name="drawer_security">Security</string>
+    <string name="drawer_security">Sicurezza</string>
     <string name="drawer_gps">GPS</string>
     <string name="drawer_hardware">Hardware</string>
-    <string name="drawer_graphics">Graphics</string>
-    <string name="drawer_settings">Settings</string>
-    <string name="drawer_pro">Pro Version</string>
-    <string name="drawer_backup">Backups</string>
-    <string name="drawer_about">About</string>
+    <string name="drawer_graphics">Grafica</string>
+    <string name="drawer_settings">Impostazioni</string>
+    <string name="drawer_pro">Versione Pro</string>
+    <string name="drawer_backup">Backup</string>
+    <string name="drawer_about">Info</string>
 
 
     <!-- ERRORS -->
-    <string name="no_mail_app_found">No mail app found. Please install one from play store</string>
-    <string name="cannot_use_figerprint">Cannot authenticate with fingerprint</string>
-    <string name="fingerprint_scanning_error">Make sure your finger covers the entire scanner</string>
-    <string name="fingerprint_error_permission">Access to fingerprint reader denied</string>
-    <string name="fingerprint_no_fingers">No fingerprints registered</string>
-    <string name="fingerprint_too_many_attempts">Too many authentication attempts</string>
+    <string name="no_mail_app_found">Nessuna app per mail trovata. Per favore installane una dal Play Store</string>
+    <string name="cannot_use_figerprint">Impossibile autenticare con l'impronta</string>
+    <string name="fingerprint_scanning_error">Assicurati che il dito copra l'intero scanner</string>
+    <string name="fingerprint_error_permission">Accesso al lettore d'impronte negato</string>
+    <string name="fingerprint_no_fingers">Nessuna impronta registrata</string>
+    <string name="fingerprint_too_many_attempts">Troppi tentativi di autenticazione</string>
 
-    <string name="not_found">Not found</string>
+    <string name="not_found">Non trovato</string>
 
-    <string name="pirate_apps_title">Pirate apps installed</string>
-    <string name="pirate_apps_content">You won\'t be able to make a purchase until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
-    <string name="pirate_apps_content_restore">You wont\' be able to make restore your purchases until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
+    <string name="pirate_apps_title">App pirata installate</string>
+    <string name="pirate_apps_content">Non potrai acquistare fino a quando non rimuovi app come Freedom, Lucky Patcher o altri cheat</string>
+    <string name="pirate_apps_content_restore">Non potrai ripristinare gli acquisti fino a quando non rimuoverai app quali Freedom, Lucky Patcher o altri cheat</string>
 
-    <string name="sign_error_title">Custom signature found</string>
-    <string name="sign_error_content">You are not allowed to perform testing on this build, neither to use a recompiled version.</string>
+    <string name="sign_error_title">Firma modificata trovata</string>
+    <string name="sign_error_content">Non potrai fare test su questa build, benchè meno usare una versione ricompilata.</string>
 
-    <string name="debug_error_title">Debug build installed</string>
-    <string name="debug_error_content">You are not allowed to perform testing on this build.</string>
-    <string name="debug_error_content_purchase">You are not allowed to perform purchases on this build. If you want you can install a signed version from the Google Play Store</string>
+    <string name="debug_error_title">Build debug installata</string>
+    <string name="debug_error_content">Non hai i permessi per testare questa build.</string>
+    <string name="debug_error_content_purchase">Non hai permessi per effettuare acquisti su questa build. Se vuoi, puoi installare una versione firmata da Google Play Store</string>
 
-    <string name="packagename_error_title">Packagename mismatch</string>
-    <string name="packagename_error_content">You modified Androoster\'s packagename and you cannot run custom builds.</string>
-    <string name="packagename_error_shutdown">SHUTDOWN</string>
+    <string name="packagename_error_title">Nome package non conforme</string>
+    <string name="packagename_error_content">Il nome package modificato di Androoster non è accettato e non puoi avviare build modificate.</string>
+    <string name="packagename_error_shutdown">SPEGNI</string>
 
-    <string name="root_error_title">Root access error</string>
-    <string name="root_error_content">Androoster need root access to work.\nMake sure to have granted root permissions to Androoster if you have them, this app won\'t work instead</string>
-    <string name="root_error_toast">Cannot get root access, please restart Androoster if you are root</string>
+    <string name="root_error_title">Errore accesso root</string>
+    <string name="root_error_content">Androoster necessita l'accesso root per funzionare.\nAssicurati di avere permesso il root a Androoster, questa app non funziona altrimenti</string>
+    <string name="root_error_toast">Impossibile ottenere l'accesso root, riavvia Androoster se possiedi il root</string>
 
-    <string name="busybox_error_title">Busybox is not installed</string>
-    <string name="busybox_error_content">Cannot access to busybox, Androoster needs some special applets to work.\nPlease install it from the Play Store and reopen Androoster</string>
+    <string name="busybox_error_title">Busybox non installato</string>
+    <string name="busybox_error_content">Impossibile accedere a Busybox, Androoster richiede speciali applet per funzionare.\nInstallalo dal Play Store e riapri Androoster</string>
 
-    <string name="error_activity_settings_not_found">Settings page not found</string>
-    <string name="webview_unavailable">This device does not support web view, which is necessary to view the change log. It is missing a system component.</string>
+    <string name="error_activity_settings_not_found">Pagina impostazioni non trovata</string>
+    <string name="webview_unavailable">Questo dispositivo non supporta la visualizzazione web, necessaria per visualizzare il changelog. Una componente del sistema è mancante.</string>
     <!-- /ERRORS -->
 
 
