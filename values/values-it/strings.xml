@@ -2,142 +2,142 @@
     <!-- Titles and internal items -->
     <string name="app_name">Androoster</string>
     <string name="app_name_pro">Androoster Pro</string>
-    <string name="app_name_pro_version">Pro Version</string>
-    <string name="app_name_normal_version">Normal Version</string>
+    <string name="app_name_pro_version">Versione Pro</string>
+    <string name="app_name_normal_version">Versione normale</string>
     <string name="app_name_suffix_pro">pro</string>
 
-    <string name="app_name_official">Official</string>
+    <string name="app_name_official">Ufficiale</string>
     <string name="app_name_beta">Beta</string>
 
-    <string name="dont_ask_again">Don\'t ask again</string>
-    <string name="reboot_to_take_effect">Reboot required to apply this tweak</string>
-    <string name="click_again_to_exit">Click again to exit</string>
-    <string name="widget_loading">Loading...</string>
-    <string name="notification_channel_boot">Boot notification</string>
+    <string name="dont_ask_again">Non chiedere più</string>
+    <string name="reboot_to_take_effect">E' necessario riavviare per applicare il tweak</string>
+    <string name="click_again_to_exit">Clicca di nuovo per uscire</string>
+    <string name="widget_loading">Caricamento...</string>
+    <string name="notification_channel_boot">Notifica all'avvio</string>
 
     <string name="action_ok">OK</string>
-    <string name="action_start">START</string>
-    <string name="action_confirm">CONFIRM</string>
-    <string name="action_continue">CONTINUE</string>
-    <string name="action_set">SET</string>
-    <string name="action_use">USE</string>
-    <string name="action_later">LATER</string>
-    <string name="action_wipe">WIPE</string>
-    <string name="action_ignore">IGNORE</string>
-    <string name="action_exit">EXIT</string>
-    <string name="action_open">OPEN</string>
-    <string name="action_shutdown">SHUTDOWN</string>
-    <string name="action_open_store">OPEN STORE</string>
-    <string name="action_install">INSTALL</string>
-    <string name="action_enter">ENTER</string>
-    <string name="action_grant">GRANT</string>
-    <string name="action_open_settings">SETTINGS</string>
-    <string name="action_deny">DENY</string>
-    <string name="action_edit">EDIT</string>
-    <string name="action_copied">Text copied</string>
+    <string name="action_start">INIZIA</string>
+    <string name="action_confirm">CONFERMA</string>
+    <string name="action_continue">CONTINUA</string>
+    <string name="action_set">IMPOSTA</string>
+    <string name="action_use">USA</string>
+    <string name="action_later">DOPO</string>
+    <string name="action_wipe">PULISCI</string>
+    <string name="action_ignore">IGNORA</string>
+    <string name="action_exit">ESCI</string>
+    <string name="action_open">APRI</string>
+    <string name="action_shutdown">SPEGNI</string>
+    <string name="action_open_store">APRI STORE</string>
+    <string name="action_install">INSTALLA</string>
+    <string name="action_enter">ENTRA</string>
+    <string name="action_grant">CONCEDI</string>
+    <string name="action_open_settings">IMPOSTAZIONI</string>
+    <string name="action_deny">NEGA</string>
+    <string name="action_edit">MODIFICA</string>
+    <string name="action_copied">Testo copiato</string>
 
-    <string name="state_enabled">Enabled</string>
-    <string name="state_disabled">Disabled</string>
-    <string name="may_not_work">May not work on every device</string>
+    <string name="state_enabled">Abilitato</string>
+    <string name="state_disabled">Disabilitato</string>
+    <string name="may_not_work">Potrebbe non funzionare su tutti i dispositivi</string>
 
     <string name="activity_title_cpu">CPU</string>
     <string name="activity_title_ram">RAM</string>
-    <string name="activity_title_security">Security</string>
-    <string name="activity_title_battery">Battery</string>
+    <string name="activity_title_security">Sicurezza</string>
+    <string name="activity_title_battery">Batteria</string>
     <string name="activity_title_kernel">Kernel</string>
     <string name="activity_title_network">Internet</string>
-    <string name="activity_title_storage">Storage</string>
+    <string name="activity_title_storage">Spazio</string>
     <string name="activity_title_hardware">Hardware</string>
-    <string name="activity_title_graphic">Graphic</string>
+    <string name="activity_title_graphic">Grafica</string>
     <string name="activity_title_debug">Debug</string>
     <string name="activity_title_gps">GPS</string>
-    <string name="title_activity_general">General Tweaks</string>
-    <string name="title_activity_uibackup">Backups</string>
-    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_general">Modifiche generali</string>
+    <string name="title_activity_uibackup">Backup</string>
+    <string name="title_activity_settings">Impostazioni</string>
 
 
-    <string name="action_open_drawer">Open Drawer</string>
-    <string name="action_reboot">Reboot</string>
+    <string name="action_open_drawer">Apri Drawer</string>
+    <string name="action_reboot">Riavvia</string>
 
-    <string name="navigation_drawer_open">Open Drawer</string>
-    <string name="navigation_drawer_close">Close Drawer</string>
+    <string name="navigation_drawer_open">Apri Drawer</string>
+    <string name="navigation_drawer_close">Chiudi Drawer</string>
 
 
     <string name="drawer_dashboard">Dashboard</string>
     <string name="drawer_cpu">CPU</string>
     <string name="drawer_ram">RAM</string>
-    <string name="drawer_battery">Battery</string>
+    <string name="drawer_battery">Batteria</string>
     <string name="drawer_kernel">Kernel</string>
-    <string name="drawer_tweaks">General Tweaks</string>
-    <string name="drawer_storage">Storage</string>
+    <string name="drawer_tweaks">Modifiche generali</string>
+    <string name="drawer_storage">Spazio</string>
     <string name="drawer_net">Internet</string>
     <string name="drawer_debug">Debug</string>
-    <string name="drawer_security">Security</string>
+    <string name="drawer_security">Sicurezza</string>
     <string name="drawer_gps">GPS</string>
     <string name="drawer_hardware">Hardware</string>
-    <string name="drawer_graphics">Graphics</string>
-    <string name="drawer_settings">Settings</string>
-    <string name="drawer_pro">Pro Version</string>
-    <string name="drawer_backup">Backups</string>
-    <string name="drawer_about">About</string>
+    <string name="drawer_graphics">Grafica</string>
+    <string name="drawer_settings">Impostazioni</string>
+    <string name="drawer_pro">Versione Pro</string>
+    <string name="drawer_backup">Backup</string>
+    <string name="drawer_about">Info</string>
 
 
     <!-- ERRORS -->
-    <string name="no_mail_app_found">No mail app found. Please install one from play store</string>
-    <string name="cannot_use_figerprint">Cannot authenticate with fingerprint</string>
-    <string name="fingerprint_scanning_error">Make sure your finger covers the entire scanner</string>
-    <string name="fingerprint_error_permission">Access to fingerprint reader denied</string>
-    <string name="fingerprint_no_fingers">No fingerprints registered</string>
-    <string name="fingerprint_too_many_attempts">Too many authentication attempts</string>
+    <string name="no_mail_app_found">Nessuna app per mail trovata. Per favore installane una dal Play Store</string>
+    <string name="cannot_use_figerprint">Impossibile autenticare con l'impronta</string>
+    <string name="fingerprint_scanning_error">Assicurati che il dito copra l'intero scanner</string>
+    <string name="fingerprint_error_permission">Accesso al lettore d'impronte negato</string>
+    <string name="fingerprint_no_fingers">Nessuna impronta registrata</string>
+    <string name="fingerprint_too_many_attempts">Troppi tentativi di autenticazione</string>
 
-    <string name="not_found">Not found</string>
+    <string name="not_found">Non trovato</string>
 
-    <string name="pirate_apps_title">Pirate apps installed</string>
-    <string name="pirate_apps_content">You won\'t be able to make a purchase until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
-    <string name="pirate_apps_content_restore">You wont\' be able to make restore your purchases until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
+    <string name="pirate_apps_title">App pirata installate</string>
+    <string name="pirate_apps_content">Non potrai acquistare fino a quando non rimuovi app come Freedom, Lucky Patcher o altri cheat</string>
+    <string name="pirate_apps_content_restore">Non potrai ripristinare gli acquisti fino a quando non rimuoverai app quali Freedom, Lucky Patcher o altri cheat</string>
 
-    <string name="sign_error_title">Custom signature found</string>
-    <string name="sign_error_content">You are not allowed to perform testing on this build, neither to use a recompiled version.</string>
+    <string name="sign_error_title">Firma modificata trovata</string>
+    <string name="sign_error_content">Non potrai fare test su questa build, benchè meno usare una versione ricompilata.</string>
 
-    <string name="debug_error_title">Debug build installed</string>
-    <string name="debug_error_content">You are not allowed to perform testing on this build.</string>
-    <string name="debug_error_content_purchase">You are not allowed to perform purchases on this build. If you want you can install a signed version from the Google Play Store</string>
+    <string name="debug_error_title">Build debug installata</string>
+    <string name="debug_error_content">Non hai i permessi per testare questa build.</string>
+    <string name="debug_error_content_purchase">Non hai permessi per effettuare acquisti su questa build. Se vuoi, puoi installare una versione firmata da Google Play Store</string>
 
-    <string name="packagename_error_title">Packagename mismatch</string>
-    <string name="packagename_error_content">You modified Androoster\'s packagename and you cannot run custom builds.</string>
-    <string name="packagename_error_shutdown">SHUTDOWN</string>
+    <string name="packagename_error_title">Nome package non conforme</string>
+    <string name="packagename_error_content">Il nome package modificato di Androoster non è accettato e non puoi avviare build modificate.</string>
+    <string name="packagename_error_shutdown">SPEGNI</string>
 
-    <string name="root_error_title">Root access error</string>
-    <string name="root_error_content">Androoster need root access to work.\nMake sure to have granted root permissions to Androoster if you have them, this app won\'t work instead</string>
-    <string name="root_error_toast">Cannot get root access, please restart Androoster if you are root</string>
+    <string name="root_error_title">Errore accesso root</string>
+    <string name="root_error_content">Androoster necessita l'accesso root per funzionare.\nAssicurati di avere permesso il root a Androoster, questa app non funziona altrimenti</string>
+    <string name="root_error_toast">Impossibile ottenere l'accesso root, riavvia Androoster se possiedi il root</string>
 
-    <string name="busybox_error_title">Busybox is not installed</string>
-    <string name="busybox_error_content">Cannot access to busybox, Androoster needs some special applets to work.\nPlease install it from the Play Store and reopen Androoster</string>
+    <string name="busybox_error_title">Busybox non installato</string>
+    <string name="busybox_error_content">Impossibile accedere a Busybox, Androoster richiede speciali applet per funzionare.\nInstallalo dal Play Store e riapri Androoster</string>
 
-    <string name="error_activity_settings_not_found">Settings page not found</string>
-    <string name="webview_unavailable">This device does not support web view, which is necessary to view the change log. It is missing a system component.</string>
+    <string name="error_activity_settings_not_found">Pagina impostazioni non trovata</string>
+    <string name="webview_unavailable">Questo dispositivo non supporta la visualizzazione web, necessaria per visualizzare il changelog. Una componente del sistema è mancante.</string>
     <!-- /ERRORS -->
 
 
     <!-- DIALOG -->
-    <string name="edit_dialog_title">Edit property</string>
+    <string name="edit_dialog_title">Modifica proprietà</string>
     <string name="edit_dialog_target_property">Target</string>
-    <string name="edit_dialog_default_value">Default value</string>
-    <string name="edit_dialog_warning">Warning</string>
-    <string name="edit_dialog_new_value">New value</string>
+    <string name="edit_dialog_default_value">Valore predefinito</string>
+    <string name="edit_dialog_warning">Attenzione</string>
+    <string name="edit_dialog_new_value">Nuovo valore</string>
 
     <string name="dialog_pin">PIN</string>
     <string name="dialog_password">Password</string>
-    <string name="dialog_confirm_pin_hint">PIN confirmation</string>
-    <string name="dialog_confirm_password_hint">Password confirmation</string>
-    <string name="dialog_hint">Hint (Optional)</string>
+    <string name="dialog_confirm_pin_hint">Conferma PIN</string>
+    <string name="dialog_confirm_password_hint">Conferma Password</string>
+    <string name="dialog_hint">Consiglio (Opzionale)</string>
 
-    <string name="dialog_reboot_title">Reboot</string>
+    <string name="dialog_reboot_title">Riavvia</string>
 
-    <string name="dialog_reboot">Reboot</string>
+    <string name="dialog_reboot">Riavvia</string>
     <string name="dialog_recovery">Recovery</string>
     <string name="dialog_bootloader">Bootloader</string>
-    <string name="dialog_fast">Fast reboot</string>
+    <string name="dialog_fast">Riavvio rapido</string>
     <!-- /DIALOG -->
 
 
@@ -146,57 +146,57 @@
     <string name="dashboard_title_pro">Androoster Pro</string>
     <string name="dashboard_title_debug">Androoster Debug</string>
 
-    <string name="dashboard_update_title_not_found">You\'re up to date!</string>
-    <string name="dashboard_update_content_not_found">The latest Androoster version (%s) is already installed</string>
+    <string name="dashboard_update_title_not_found">Tutto aggiornato!</string>
+    <string name="dashboard_update_content_not_found">L'ultima versione di Androoster (%s) è già installata</string>
 
-    <string name="dashboard_update_title_urgent">Urgent update released</string>
-    <string name="dashboard_update_title_medium">Old version installed</string>
-    <string name="dashboard_update_title_normal">A new update is found!</string>
-    <string name="dashboard_update_title_testing">A new testing update is found!</string>
-    <string name="dashboard_update_title_time_travel">Hello time traveler!</string>
+    <string name="dashboard_update_title_urgent">Update urgente rilasciato</string>
+    <string name="dashboard_update_title_medium">Versione vecchia installata</string>
+    <string name="dashboard_update_title_normal">Un nuovo aggiornamento è disponibile!</string>
+    <string name="dashboard_update_title_testing">Un nuovo update di test è disponibile!</string>
+    <string name="dashboard_update_title_time_travel">Ciao, viaggatore del tempo!</string>
 
-    <string name="dashboard_update_content_urgent">Your version contains some issues that are fixed in the last one, %s.\nDownload it from the Google Play store as soon as you can</string>
-    <string name="dashboard_update_content_medium">Androoster %s has been released, update to get the latest futures and bugfixes</string>
-    <string name="dashboard_update_content_normal">Androoster %s is now in the Play Store, bringing new features and bugfixes</string>
-    <string name="dashboard_update_content_testing">Androoster %s (Beta) is now in the Play Store, bringing new features and bugfixes for testers</string>
-    <string name="dashboard_update_content_time_travel_singular">Androoster %s is %v release ahead of the market release. Great work!</string>
-    <string name="dashboard_update_content_time_travel_plural">Androoster %s is %v releases ahead of the market release. Great work!</string>
+    <string name="dashboard_update_content_urgent">Questa versione contiene problemi che sono risolti nell'ultima, %s.\nScaricala dal Google Play store il prima possibile</string>
+    <string name="dashboard_update_content_medium">Androoster %s è disponibile, aggiorna per avere le ultime funzionalità e bugfix</string>
+    <string name="dashboard_update_content_normal">Androoster %s è ora sul Play store, portando le ultime funzionalità e bugfix</string>
+    <string name="dashboard_update_content_testing">Androoster %s (Beta) è ora sul Play store, portando le ultime funzionalità e bugfix per i testers</string>
+    <string name="dashboard_update_content_time_travel_singular">Androoster %s è %v versione avanti alla versione ufficiale. Ottimo lavoro!</string>
+    <string name="dashboard_update_content_time_travel_plural">Androoster %s è %v versioni avanti alla versione ufficiale. Ottimo lavoro!</string>
 
-    <string name="dashboard_update_title_offline">Device offline</string>
-    <string name="dashboard_update_content_offline">Cannot check for updates right now, device has not internet connection</string>
+    <string name="dashboard_update_title_offline">Dispositivo offline</string>
+    <string name="dashboard_update_content_offline">Impossibile controllare al momento gli aggiornamenti, il dispositivo non ha una connessione a Internet</string>
 
-    <string name="dashboard_update_title_missing_play_services">Missing Google Play Store</string>
-    <string name="dashboard_update_content_missing_play_services">Cannot check for updates without it, you may receive updates from 3rd part software</string>
+    <string name="dashboard_update_title_missing_play_services">Google Play Store mancante</string>
+    <string name="dashboard_update_content_missing_play_services">Impossibile controllare gli aggiornamenti senza di esso, potresti riceverli da un software di terze parti</string>
 
-    <string name="dashboard_update_title_checking">Checking for updates...</string>
-    <string name="dashboard_update_content_checking">App version: %s\nBuild code: %b</string>
+    <string name="dashboard_update_title_checking">Controllo aggiornamenti...</string>
+    <string name="dashboard_update_content_checking">Versione app: %s\nCodice build: %b</string>
 
-    <string name="dashboard_update_button_ignore">IGNORE</string>
+    <string name="dashboard_update_button_ignore">IGNORA</string>
     <string name="dashboard_update_button_playstore">PLAY STORE</string>
 
-    <string name="dashboard_update_dialog_title">Ignore this update?</string>
-    <string name="dashboard_update_dialog_content">You won\'t be able to receive this update again</string>
-    <string name="dashboard_update_dialog_content_critical">\nWe recommend you to not ignore this and to update quickly to the new one</string>
+    <string name="dashboard_update_dialog_title">Ignorare questo update?</string>
+    <string name="dashboard_update_dialog_content">Non sarà possibile ricevere update in futuro</string>
+    <string name="dashboard_update_dialog_content_critical">\nTi raccomandiamo di non ignorarlo e di aggiornare il prima possibile</string>
 
 
-    <string name="dashboard_boost">Boost device</string>
+    <string name="dashboard_boost">Velocizza dispositivo</string>
     <string name="dashboard_boost_button">BOOST</string>
-    <string name="dashboard_boost_content">Kill background processes and clean up memory</string>
-    <string name="dashboard_boosting">Boosting...</string>
-    <string name="dashboard_boosting_content">Boost in progress...</string>
-    <string name="dashboard_boosting_snack_killing">Killing background services...</string>
-    <string name="dashboard_boosting_snack_sync">Syncing data on disk...</string>
-    <string name="dashboard_boosting_snack_done">Done!</string>
-    <string name="dashboard_boost_done_title">Boost done</string>
-    <string name="dashboard_boost_done_content">We just killed some processes and we synced filesystem changes on disk</string>
+    <string name="dashboard_boost_content">Chiudi tutti i processi in background e libera memoria</string>
+    <string name="dashboard_boosting">Migliorando le performance...</string>
+    <string name="dashboard_boosting_content">Miglioramento in corso...</string>
+    <string name="dashboard_boosting_snack_killing">Chiusura dei servizi in background...</string>
+    <string name="dashboard_boosting_snack_sync">Sincronizzazione dati su disco...</string>
+    <string name="dashboard_boosting_snack_done">Fatto!</string>
+    <string name="dashboard_boost_done_title">Boost effettuato</string>
+    <string name="dashboard_boost_done_content">Abbiamo appena chiuso processi e sincronizzato i cambiamenti sul disco</string>
 
     <string name="dashboard_widget_software_title">Software</string>
-    <string name="dashboard_widget_software_android_version">Android version</string>
-    <string name="dashboard_widget_software_root_installed">Installed</string>
-    <string name="dashboard_widget_software_unknown_su">Unknown</string>
+    <string name="dashboard_widget_software_android_version">Versione Android</string>
+    <string name="dashboard_widget_software_root_installed">Installato</string>
+    <string name="dashboard_widget_software_unknown_su">Sconosciuto</string>
     <string name="dashboard_widget_software_android_id">Android ID</string>
     <string name="dashboard_widget_software_bootloader">Bootloader</string>
-    <string name="dashboard_widget_software_fingerprint">Fingerprint</string>
+    <string name="dashboard_widget_software_fingerprint">Impronta</string>
     <string name="dashboard_widget_software_root">Root</string>
     <string name="dashboard_widget_software_build">Build</string>
     <string name="dashboard_widget_software_kernel">Kernel</string>
@@ -204,48 +204,48 @@
 
     <string name="dashboard_widget_hardware_title">Hardware</string>
     <string name="dashboard_widget_hardware_cpu">CPU</string>
-    <string name="dashboard_widget_hardware_cpu_cores">Cores</string>
+    <string name="dashboard_widget_hardware_cpu_cores">Core</string>
     <string name="dashboard_widget_hardware_cpu_governor">Governor</string>
-    <string name="dashboard_widget_hardware_battery">Battery</string>
-    <string name="dashboard_widget_hardware_serial">Serial Number</string>
-    <string name="dashboard_widget_hardware_device">Device</string>
+    <string name="dashboard_widget_hardware_battery">Batteria</string>
+    <string name="dashboard_widget_hardware_serial">Numero Seriale</string>
+    <string name="dashboard_widget_hardware_device">Dispositivo</string>
     <string name="dashboard_widget_hardware_brand">Brand</string>
     <!-- /DASHBOARD -->
 
 
     <!-- ACTIVATION -->
-    <string name="activation_title">Activation</string>
-    <string name="activation_content">Connecting to the activation servers...</string>
+    <string name="activation_title">Attivazione</string>
+    <string name="activation_content">Connessione al server di attivazione...</string>
     <!-- /ACTIVATION -->
 
 
     <!-- BACKUP -->
-    <string name="backup_default">Default configuration</string>
+    <string name="backup_default">Configurazione predefinita</string>
     <string name="backup_prefix">Backup</string>
 
-    <string name="backup_dialog_title">Backing up...</string>
-    <string name="backup_dialog_content">Backing up your configuration on a file</string>
-    <string name="backup_dialog_done_title">Done</string>
-    <string name="backup_dialog_init">Initializing</string>
-    <string name="backup_dialog_importing">Importing line</string>
-    <string name="backup_dialog_done_content">Done! To see the results you may need to reboot your device</string>
+    <string name="backup_dialog_title">Salvataggio...</string>
+    <string name="backup_dialog_content">Salvataggio delle impostazioni su disco</string>
+    <string name="backup_dialog_done_title">Fatto</string>
+    <string name="backup_dialog_init">Preparazione</string>
+    <string name="backup_dialog_importing">Importazione linea</string>
+    <string name="backup_dialog_done_content">Fatto! Per vedere i risultati, è necessario riavviare il dispositivo</string>
 
-    <string name="backup_already_executed">Backup already executed</string>
-    <string name="backup_done">Backup executed!</string>
+    <string name="backup_already_executed">Backup già eseguito</string>
+    <string name="backup_done">Backup eseguito!</string>
 
-    <string name="backup_menu_restore">Restore</string>
-    <string name="backup_menu_delete">Delete</string>
-    <string name="backup_menu_delete_all">Delete all</string>
+    <string name="backup_menu_restore">Ripristina</string>
+    <string name="backup_menu_delete">Elimina</string>
+    <string name="backup_menu_delete_all">Elimina tutto</string>
 
-    <string name="backup_error_listing">Error while refreshing backup list. Clear app data and try again</string>
+    <string name="backup_error_listing">Errore nell'aggiornamento della lista backup. Elimina i dati app e riprova</string>
     <!-- /BACKUP -->
 
 
     <!-- BOOT SERVICE -->
 
-    <string name="service_boot_title">Boot compleated</string>
-    <string name="service_boot_content_small">Properties correctly updated</string>
-    <string name="service_boot_content_large">Your tweaks have been successfully applied to your system</string>
+    <string name="service_boot_title">Avvio completato</string>
+    <string name="service_boot_content_small">Proprietà aggiornate correttamente</string>
+    <string name="service_boot_content_large">I tuoi tweak sono stati applicati con successo al sistema</string>
 
 
     <!-- CPU -->
