@@ -251,62 +251,62 @@
     <!-- CPU -->
     <string name="cpu_widget_title">CPU</string>
 
-    <string name="cpu_governor_content_ondemand">One of the most used governor on linux old times: when your device is getting overloaded the CPU frequenzy will be ported at its max. Now it\'s getting replaced by interactive</string>
-    <string name="cpu_governor_content_ondemandx">Little improvements at the basic ondemand governor</string>
-    <string name="cpu_governor_content_performance">The CPU is always set to its maximum frequency</string>
-    <string name="cpu_governor_content_powersave">The CPU is always set to its minimum frequency</string>
-    <string name="cpu_governor_content_conservative">It slightly raises CPU performances when needed. Useful on old devices, reduced performances and amplified battery life</string>
-    <string name="cpu_governor_content_userspace">The frequency is decided by the applications that are in execution</string>
-    <string name="cpu_governor_content_minmax">Just uses max and min frequencies for handling the cpu, no middle ones</string>
-    <string name="cpu_governor_content_interactive">Default and best governor for most of the devices. Cpu frequency switch are ruled by a timer and user interaction</string>
-    <string name="cpu_governor_content_unknown">Custom kernel governor, not recognized by Androoster</string>
+    <string name="cpu_governor_content_ondemand">Uno dei governor più usatu dai vecchi tempi di Linux: quando il tuo dispositivo è in overload, la frequenza della CPU viene portata al massimo. E\' stata sostituita da interactive</string>
+    <string name="cpu_governor_content_ondemandx">Piccoli miglioramenti al funzionamento base del governor ondemand</string>
+    <string name="cpu_governor_content_performance">La CPU è sempre impostata alla massima frequenza</string>
+    <string name="cpu_governor_content_powersave">La CPU è sempre impostata al minimo della frequenza</string>
+    <string name="cpu_governor_content_conservative">Aumenta le performance della CPU quando necessario. Utile su vecchi dispositivi, riduce le prestazioni e aumenta la durata della batteria</string>
+    <string name="cpu_governor_content_userspace">La frequenza viene decisa dall'applicazione in esecuzione</string>
+    <string name="cpu_governor_content_minmax">Solo minima e massima frequenza sono usate per gestire la CPU, nessuna intermedia</string>
+    <string name="cpu_governor_content_interactive">Governor migliore e di default per molti dispositivi. I cambi di frequenza della CPU sono gestiti da un timer e da interazioni utente</string>
+    <string name="cpu_governor_content_unknown">Governor modificato del kernel, non riconosciuto da Androoster</string>
 
 
-    <string name="cpu_cache_title">App cache optimization</string>
-    <string name="cpu_cache_content">Enables dalvik-cache built-in optimization features</string>
-    <string name="cpu_cache_toast_on">Fast app execution profile applied</string>
-    <string name="cpu_cache_toast_off">Enables dalvik-cache built-in optimization features</string>
+    <string name="cpu_cache_title">Ottimizzazione cache app</string>
+    <string name="cpu_cache_content">Abilita le funzioni preinserite della dalvik-cache</string>
+    <string name="cpu_cache_toast_on">Profilo per esecuzione rapida app applicato</string>
+    <string name="cpu_cache_toast_off">Abilitate le funzioni preinserite della dalvik-cache</string>
 
 
-    <string name="cpu_cache_dialog_title">Wipe dalvik cache</string>
-    <string name="cpu_cache_dialog_content">Changes are applied, but them will take effect if you wipe dalvik cache and reboot now. Else new profile will be applied per-app</string>
-    <string name="cpu_cache_dialog_content_xposed">Xposed can give some problems, proceed with caution.</string>
-    <string name="cpu_cache_dialog_positive">WIPE AND REBOOT</string>
+    <string name="cpu_cache_dialog_title">Pulisci dalvik cache</string>
+    <string name="cpu_cache_dialog_content">I cambiamenti sono stati applicati, ma verranno applicati quando pulirai la dalvik cache e riavvierai il dispositivo. Inoltte il nuovo profilo verrà applicato per app</string>
+    <string name="cpu_cache_dialog_content_xposed">Xposed potrebbe dare problemi, procedere con cautela.</string>
+    <string name="cpu_cache_dialog_positive">PULISCI E RIAVVIA</string>
 
-    <string name="cpu_cache_dialog_working_title">Cleaning...</string>
-    <string name="cpu_cache_dialog_working_content">Wiping dalvik cache and rebooting...</string>
+    <string name="cpu_cache_dialog_working_title">Pulizia...</string>
+    <string name="cpu_cache_dialog_working_content">Pulizia la dalvik cache e riavvio...</string>
 
 
-    <string name="cpu_optimization_title">CPU Usage Optimization</string>
-    <string name="cpu_optimization_content">Boosts CPU when you need power and reduce it when unnecessary</string>
-    <string name="cpu_optimization_toast_on">Optimization on</string>
-    <string name="cpu_optimization_toast_off">Optimization off</string>
+    <string name="cpu_optimization_title">Ottimizzazione uso CPU</string>
+    <string name="cpu_optimization_content">Velocizza CPU quando serve potenza, e riduce quando la potenza non è necessaria</string>
+    <string name="cpu_optimization_toast_on">Ottimizzazione attiva</string>
+    <string name="cpu_optimization_toast_off">Ottimizzazione disattiva</string>
 
-    <string name="cpu_internal_exec_title">Runtime Improvements</string>
-    <string name="cpu_internal_exec_content">Modifies internal system parameters to make apps smoother and lag-free</string>
-    <string name="cpu_internal_exec_toast_on">Applied performances tweaks</string>
-    <string name="cpu_internal_exec_toast_off">Disabled performances tweaks</string>
+    <string name="cpu_internal_exec_title">Miglioramenti Runtime</string>
+    <string name="cpu_internal_exec_content">MModifica i parametri interni del sistema per rendere le app più fluide e senza lag</string>
+    <string name="cpu_internal_exec_toast_on">Abilitate modifiche alle prestazioni</string>
+    <string name="cpu_internal_exec_toast_off">Disabilitate modifiche alle prestazioni</string>
 
-    <string name="cpu_boost_title">Tune CPU performances</string>
-    <string name="cpu_boost_content">Tunes CPU performances to have a faster execution, uses a bit of extra battery</string>
+    <string name="cpu_boost_title">Migliora prestazioni CPU</string>
+    <string name="cpu_boost_content">Migliora prestazioni CPU per avere esecuzioni più rapide, usa più batteria</string>
 
     <string name="cpu_governor_1">Interactive</string>
-    <string name="cpu_governor_1_switch">Governor switched to interactive</string>
+    <string name="cpu_governor_1_switch">Governor cambiato a interactive</string>
     <string name="cpu_governor_2">Powersave</string>
-    <string name="cpu_governor_2_switch">Governor switched to powersave</string>
+    <string name="cpu_governor_2_switch">Governor cambiato a powersave</string>
     <string name="cpu_governor_3">Performances</string>
-    <string name="cpu_governor_3_switch">Governor switched to performances</string>
+    <string name="cpu_governor_3_switch">Governor cambiato a performances</string>
     <string name="cpu_governor_4">Userspace</string>
-    <string name="cpu_governor_4_switch">Governor switched to userspace</string>
+    <string name="cpu_governor_4_switch">Governor cambiato a userspace</string>
     <string name="cpu_governor_5">Min Max</string>
-    <string name="cpu_governor_5_switch">Governor switched to min max</string>
+    <string name="cpu_governor_5_switch">Governor cambiato a min max</string>
     <string name="cpu_governor_6">Conservative</string>
-    <string name="cpu_governor_6_switch">Governor switched to conservative</string>
+    <string name="cpu_governor_6_switch">Governor cambiato a conservative</string>
     <string name="cpu_governor_7">Ondemand</string>
-    <string name="cpu_governor_7_switch">Governor switched to ondemand</string>
+    <string name="cpu_governor_7_switch">Governor cambiato a ondemand</string>
 
-    <string name="cpu_warning_title">Warning</string>
-    <string name="cpu_warning_content">If the governor is not applied is because your kernel does not support it\nThe current governor is shown in the table here above</string>
+    <string name="cpu_warning_title">Attenzione</string>
+    <string name="cpu_warning_content">Se il governor non viene applicato, è perchè il tuo kernel non lo supporta\nIl governor corrente è mostrato nella tabella appena sopra</string>
     <!-- /CPU -->
 
 
@@ -316,64 +316,64 @@
     <string name="ram_widget_heap">Heapsize</string>
     <string name="ram_widget_check">Hardware</string>
 
-    <string name="ram_profile_title">Profiles</string>
-    <string name="ram_profile_dialog_title">Choose a profile</string>
-    <string name="ram_profile_content">Choose the option that you like the most and let us to think about everything else</string>
+    <string name="ram_profile_title">Profili</string>
+    <string name="ram_profile_dialog_title">Scegli un profilo</string>
+    <string name="ram_profile_content">Scegli una opzione che ti piace di più e facci sapere la tua idea sul resto</string>
 
-    <string name="ram_runtime_title">Runtime tuner</string>
+    <string name="ram_runtime_title">Miglioramento Runtime</string>
     <string name="ram_runtime_content_dalvik">heapsize</string>
     <string name="ram_runtime_content_maxfree">maxfree</string>
     <string name="ram_runtime_content_minfree">minfree</string>
-    <string name="ram_runtime_content_target_utilization">target utilization</string>
-    <string name="ram_runtime_content_growth_limit">heap growth limit</string>
+    <string name="ram_runtime_content_target_utilization">utilizzo target</string>
+    <string name="ram_runtime_content_growth_limit">crescita massima heap</string>
     <string name="ram_runtime_content_flags">dexopt flags</string>
 
     <string name="ram_release_title">Auto-Release</string>
-    <string name="ram_release_content">Android automatically cleans-up memory from unused services, processes and tasks</string>
+    <string name="ram_release_content">Android automaticamente libera la memoria dai servizi inutilizzati, processi e comandi</string>
 
-    <string name="ram_multitasking_title">Multitasking tweaks</string>
-    <string name="ram_multitasking_content">Keep memory fresh and as free as possible, to make everything fluid. May reduce battery</string>
+    <string name="ram_multitasking_title">Miglioramenti Multitasking</string>
+    <string name="ram_multitasking_content">Mantiene la memoria il più libera possibile, per rendere il tutto fluido. Potrebbe ridurre la batteria</string>
 
-    <string name="ram_smooth_title">Smooth UI</string>
-    <string name="ram_smooth_content">Tweaks to make scroll and navigation cleaner, smoother and responsive</string>
+    <string name="ram_smooth_title">Migliora UI</string>
+    <string name="ram_smooth_content">Miglioramenti che rendono lo scroll e la navigazione più puliti, fluidi e reattivi</string>
 
     <string name="ram_lmk_title">Low Memory Killer</string>
-    <string name="ram_lmk_content">Android memory manager that automatically manages memory, here you can change the profile</string>
+    <string name="ram_lmk_content">Gestore memoria Android che gestisce automaticamente la memoria, qui puoi cambiare il profilo</string>
 
-    <string name="ram_zram_title">Zram service</string>
-    <string name="ram_zram_content">Enable native memory packaging (zram) to gain device general better performances</string>
+    <string name="ram_zram_title">Servizio Zram</string>
+    <string name="ram_zram_content">Abilita il sistema di compressione nativo della memoria (zram) per ottenere miglioramenti generali alle prestazioni</string>
 
-    <string name="ram_keep_alive_title">Never kill launcher</string>
-    <string name="ram_keep_alive_content">Always keep launcher in memory to avoid reloads and have a fast experience on the home screen</string>
+    <string name="ram_keep_alive_title">Mai chiudere il launcher</string>
+    <string name="ram_keep_alive_content">Mantiene il launcher sempre in memoria per evitare caricamenti e avere una esperienza più veloce sulla home screen</string>
 
-    <string name="ram_tweak_1">Reduced</string>
-    <string name="ram_tweak_2">Normal</string>
-    <string name="ram_tweak_3">Extended</string>
-    <string name="ram_tweak_4">Extreme</string>
+    <string name="ram_tweak_1">Ridotto</string>
+    <string name="ram_tweak_2">Normale</string>
+    <string name="ram_tweak_3">Esteso</string>
+    <string name="ram_tweak_4">Estremo</string>
 
-    <string name="ram_profile_1">Default</string>
-    <string name="ram_profile_2">Power-saving</string>
-    <string name="ram_profile_3">Smooth</string>
+    <string name="ram_profile_1">Standard</string>
+    <string name="ram_profile_2">Risparmio energetico</string>
+    <string name="ram_profile_3">Fluido</string>
     <string name="ram_profile_4">Multitasking</string>
-    <string name="ram_profile_switch">Ram profile switched to %p</string>
+    <string name="ram_profile_switch">Profilo Ram cambiato in %p</string>
 
-    <string name="ram_runtime_1">Default</string>
-    <string name="ram_runtime_2">Light</string>
-    <string name="ram_runtime_3">Medium</string>
-    <string name="ram_runtime_4">Strong</string>
-    <string name="ram_runtime_5">Extreme</string>
-    <string name="ram_runtime_switch">Runtime profile switched %p</string>
-    <string name="ram_not_enough">Not enough memory to activate the selected profile</string>
+    <string name="ram_runtime_1">Standard</string>
+    <string name="ram_runtime_2">Leggero</string>
+    <string name="ram_runtime_3">Medio</string>
+    <string name="ram_runtime_4">Forte</string>
+    <string name="ram_runtime_5">Estremo</string>
+    <string name="ram_runtime_switch">Profilo Runtime cambiato in %p</string>
+    <string name="ram_not_enough">Non c\'è abbastanza memoria per attivare il profilo selezionato</string>
 
-    <string name="ram_lmk_1">Default</string>
-    <string name="ram_lmk_2">Very light  (Very little RAM)</string>
-    <string name="ram_lmk_3">Light  (Little RAM)</string>
-    <string name="ram_lmk_4">Normal  (Medium RAM)</string>
-    <string name="ram_lmk_5">Aggressive  (Big RAM)</string>
-    <string name="ram_lmk_6">Very Aggressive  (Very Big RAM)</string>
-    <string name="ram_lmk_7">Insane  (Extreme RAM)</string>
+    <string name="ram_lmk_1">Standard</string>
+    <string name="ram_lmk_2">Leggerissimo  (pochissima RAM)</string>
+    <string name="ram_lmk_3">Leggero  (poca RAM)</string>
+    <string name="ram_lmk_4">Normale  (media RAM)</string>
+    <string name="ram_lmk_5">Aggressivo  (molta RAM)</string>
+    <string name="ram_lmk_6">Molto aggressivo  (moltissima RAM)</string>
+    <string name="ram_lmk_7">Insano  (estrema RAM)</string>
 
-    <string name="ram_lmk_switch">New LMK profile applied</string>
+    <string name="ram_lmk_switch">Nuovo profilo LMK applicato</string>
 
 
     <!-- /RAM -->
