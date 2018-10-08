@@ -6,7 +6,7 @@ This is the right place if you have a bug report, if you need assistance or if y
 Currently pending languages for translations:
 
 - [x] ENGLISH (en)
-- [ ] ITALIAN (it)
+- [x] ITALIAN (it)
 - [ ] RUSSIAN (ru)
 - [ ] GERMAN (de)
 - [ ] SPANISH (es)
