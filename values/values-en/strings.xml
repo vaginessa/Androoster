@@ -12,7 +12,7 @@
     <string name="dont_ask_again">Don\'t ask again</string>
     <string name="reboot_to_take_effect">Reboot required to apply this tweak</string>
     <string name="click_again_to_exit">Click again to exit</string>
-    <string name="widget_loading">Loading...</string>
+    <string name="widget_loading">Loading…</string>
     <string name="notification_channel_boot">Boot notification</string>
 
     <string name="action_ok">OK</string>
@@ -48,7 +48,7 @@
     <string name="activity_title_network">Internet</string>
     <string name="activity_title_storage">Storage</string>
     <string name="activity_title_hardware">Hardware</string>
-    <string name="activity_title_graphic">Graphic</string>
+    <string name="activity_title_graphic">Graphics</string>
     <string name="activity_title_debug">Debug</string>
     <string name="activity_title_gps">GPS</string>
     <string name="title_activity_general">General Tweaks</string>
@@ -83,7 +83,7 @@
 
 
     <!-- ERRORS -->
-    <string name="no_mail_app_found">No mail app found. Please install one from play store</string>
+    <string name="no_mail_app_found">No mail app found. Please install one.</string>
     <string name="cannot_use_figerprint">Cannot authenticate with fingerprint</string>
     <string name="fingerprint_scanning_error">Make sure your finger covers the entire scanner</string>
     <string name="fingerprint_error_permission">Access to fingerprint reader denied</string>
@@ -93,29 +93,29 @@
     <string name="not_found">Not found</string>
 
     <string name="pirate_apps_title">Pirate apps installed</string>
-    <string name="pirate_apps_content">You won\'t be able to make a purchase until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
-    <string name="pirate_apps_content_restore">You wont\' be able to make restore your purchases until you will remove apps such as Freedom, Lucky Patcher and others market cracks</string>
+    <string name="pirate_apps_content">You won\'t be able to make a purchase until you remove cracking apps such as Freedom, Lucky Patcher, GameGuardian, etc.</string>
+    <string name="pirate_apps_content_restore">You wont\' be able to restore purchases until you remove cracking apps such as Freedom, Lucky Patcher, GameGuardian, etc.</string>
 
     <string name="sign_error_title">Custom signature found</string>
-    <string name="sign_error_content">You are not allowed to perform testing on this build, neither to use a recompiled version.</string>
+    <string name="sign_error_content">You are not allowed to perform testing on this build or use a recompiled version.</string>
 
     <string name="debug_error_title">Debug build installed</string>
     <string name="debug_error_content">You are not allowed to perform testing on this build.</string>
-    <string name="debug_error_content_purchase">You are not allowed to perform purchases on this build. If you want you can install a signed version from the Google Play Store</string>
+    <string name="debug_error_content_purchase">You are not allowed to perform purchases on this build. You can only do so on the signed version from the Play Store.</string>
 
     <string name="packagename_error_title">Packagename mismatch</string>
-    <string name="packagename_error_content">You modified Androoster\'s packagename and you cannot run custom builds.</string>
+    <string name="packagename_error_content">You modified Androoster\'s packagename; you cannot run custom builds.</string>
     <string name="packagename_error_shutdown">SHUTDOWN</string>
 
     <string name="root_error_title">Root access error</string>
-    <string name="root_error_content">Androoster need root access to work.\nMake sure to have granted root permissions to Androoster if you have them, this app won\'t work instead</string>
-    <string name="root_error_toast">Cannot get root access, please restart Androoster if you are root</string>
+    <string name="root_error_content">Androoster needs root access to work. Otherwise, it's just a waste of storage space ;)</string>
+    <string name="root_error_toast">Cannot obtain root access; please restart Androoster if you are rooted.</string>
 
-    <string name="busybox_error_title">Busybox is not installed</string>
-    <string name="busybox_error_content">Cannot access to busybox, Androoster needs some special applets to work.\nPlease install it from the Play Store and reopen Androoster</string>
+    <string name="busybox_error_title">Busybox is not installed.</string>
+    <string name="busybox_error_content">Cannot access Busybox; Androoster needs some special applets to work.\nPlease install Busybox via an app or custom recovery.</string>
 
     <string name="error_activity_settings_not_found">Settings page not found</string>
-    <string name="webview_unavailable">This device does not support web view, which is necessary to view the change log. It is missing a system component.</string>
+    <string name="webview_unavailable">This device does not support WebView, which is necessary to view the changelog. WebView is often a system component.</string>
     <!-- /ERRORS -->
 
 
@@ -149,46 +149,46 @@
     <string name="dashboard_update_title_not_found">You\'re up to date!</string>
     <string name="dashboard_update_content_not_found">The latest Androoster version (%s) is already installed</string>
 
-    <string name="dashboard_update_title_urgent">Urgent update released</string>
-    <string name="dashboard_update_title_medium">Old version installed</string>
-    <string name="dashboard_update_title_normal">A new update is found!</string>
-    <string name="dashboard_update_title_testing">A new testing update is found!</string>
-    <string name="dashboard_update_title_time_travel">Hello time traveler!</string>
+    <string name="dashboard_update_title_urgent">An urgent update has been released.</string>
+    <string name="dashboard_update_title_medium">An old version is installed.</string>
+    <string name="dashboard_update_title_normal">A new update is available.</string>
+    <string name="dashboard_update_title_testing">A new testing update is available.</string>
+    <string name="dashboard_update_title_time_travel">Hello, time traveler!</string>
 
-    <string name="dashboard_update_content_urgent">Your version contains some issues that are fixed in the last one, %s.\nDownload it from the Google Play store as soon as you can</string>
-    <string name="dashboard_update_content_medium">Androoster %s has been released, update to get the latest futures and bugfixes</string>
-    <string name="dashboard_update_content_normal">Androoster %s is now in the Play Store, bringing new features and bugfixes</string>
-    <string name="dashboard_update_content_testing">Androoster %s (Beta) is now in the Play Store, bringing new features and bugfixes for testers</string>
-    <string name="dashboard_update_content_time_travel_singular">Androoster %s is %v release ahead of the market release. Great work!</string>
-    <string name="dashboard_update_content_time_travel_plural">Androoster %s is %v releases ahead of the market release. Great work!</string>
+    <string name="dashboard_update_content_urgent">Your installed version contains some issues that may be fixed in the newer version (%s).\nWe recommend installing it quickly.</string>
+    <string name="dashboard_update_content_medium">Androoster %s has been released; update to get the latest features and bug fixes.</string>
+    <string name="dashboard_update_content_normal">Androoster %s is now available, bringing new features and bug fixes.</string>
+    <string name="dashboard_update_content_testing">Androoster %s (Beta) is now available, bringing new features and bug fixes for testers.</string>
+    <string name="dashboard_update_content_time_travel_singular">Androoster %s is %v release ahead of the market release. Nice!</string>
+    <string name="dashboard_update_content_time_travel_plural">Androoster %s is %v releases ahead of the market release. Nice!</string>
 
-    <string name="dashboard_update_title_offline">Device offline</string>
-    <string name="dashboard_update_content_offline">Cannot check for updates right now, device has not internet connection</string>
+    <string name="dashboard_update_title_offline">Device is offline</string>
+    <string name="dashboard_update_content_offline">Cannot check for updates; no internet connection.</string>
 
-    <string name="dashboard_update_title_missing_play_services">Missing Google Play Store</string>
-    <string name="dashboard_update_content_missing_play_services">Cannot check for updates without it, you may receive updates from 3rd part software</string>
+    <string name="dashboard_update_title_missing_play_services">Your device is missing Google Play Services :/</string>
+    <string name="dashboard_update_content_missing_play_services">We cannot check for updates without it. However, you may receive updates from 3rd party software or app stores like APKPure, Aptoide, etc.</string>
 
-    <string name="dashboard_update_title_checking">Checking for updates...</string>
+    <string name="dashboard_update_title_checking">Checking for updates…</string>
     <string name="dashboard_update_content_checking">App version: %s\nBuild code: %b</string>
 
     <string name="dashboard_update_button_ignore">IGNORE</string>
     <string name="dashboard_update_button_playstore">PLAY STORE</string>
 
     <string name="dashboard_update_dialog_title">Ignore this update?</string>
-    <string name="dashboard_update_dialog_content">You won\'t be able to receive this update again</string>
-    <string name="dashboard_update_dialog_content_critical">\nWe recommend you to not ignore this and to update quickly to the new one</string>
+    <string name="dashboard_update_dialog_content">You won\'t be able to receive this update again.</string>
+    <string name="dashboard_update_dialog_content_critical">\nWe recommend you update instead of ignoring it.</string>
 
 
     <string name="dashboard_boost">Boost device</string>
     <string name="dashboard_boost_button">BOOST</string>
     <string name="dashboard_boost_content">Kill background processes and clean up memory</string>
-    <string name="dashboard_boosting">Boosting...</string>
-    <string name="dashboard_boosting_content">Boost in progress...</string>
-    <string name="dashboard_boosting_snack_killing">Killing background services...</string>
-    <string name="dashboard_boosting_snack_sync">Syncing data on disk...</string>
+    <string name="dashboard_boosting">Boosting…</string>
+    <string name="dashboard_boosting_content">Boost in progress…</string>
+    <string name="dashboard_boosting_snack_killing">Killing background services…</string>
+    <string name="dashboard_boosting_snack_sync">Syncing data on disk…</string>
     <string name="dashboard_boosting_snack_done">Done!</string>
-    <string name="dashboard_boost_done_title">Boost done</string>
-    <string name="dashboard_boost_done_content">We just killed some processes and we synced filesystem changes on disk</string>
+    <string name="dashboard_boost_done_title">Boosting complete</string>
+    <string name="dashboard_boost_done_content">Killed some processes and synced filesystem changes with disk</string>
 
     <string name="dashboard_widget_software_title">Software</string>
     <string name="dashboard_widget_software_android_version">Android version</string>
@@ -215,7 +215,7 @@
 
     <!-- ACTIVATION -->
     <string name="activation_title">Activation</string>
-    <string name="activation_content">Connecting to the activation servers...</string>
+    <string name="activation_content">Connecting to the activation servers…</string>
     <!-- /ACTIVATION -->
 
 
@@ -223,12 +223,12 @@
     <string name="backup_default">Default configuration</string>
     <string name="backup_prefix">Backup</string>
 
-    <string name="backup_dialog_title">Backing up...</string>
-    <string name="backup_dialog_content">Backing up your configuration on a file</string>
+    <string name="backup_dialog_title">Backing up…</string>
+    <string name="backup_dialog_content">Backing up your configuration onto a file…</string>
     <string name="backup_dialog_done_title">Done</string>
-    <string name="backup_dialog_init">Initializing</string>
-    <string name="backup_dialog_importing">Importing line</string>
-    <string name="backup_dialog_done_content">Done! To see the results you may need to reboot your device</string>
+    <string name="backup_dialog_init">Initializing…</string>
+    <string name="backup_dialog_importing">Importing line…</string>
+    <string name="backup_dialog_done_content">Done! You may need to reboot your device to see results</string>
 
     <string name="backup_already_executed">Backup already executed</string>
     <string name="backup_done">Backup executed!</string>
@@ -237,29 +237,29 @@
     <string name="backup_menu_delete">Delete</string>
     <string name="backup_menu_delete_all">Delete all</string>
 
-    <string name="backup_error_listing">Error while refreshing backup list. Clear app data and try again</string>
+    <string name="backup_error_listing">An error occurred while refreshing the backup list. Clear app data and try again.</string>
     <!-- /BACKUP -->
 
 
     <!-- BOOT SERVICE -->
 
-    <string name="service_boot_title">Boot compleated</string>
-    <string name="service_boot_content_small">Properties correctly updated</string>
-    <string name="service_boot_content_large">Your tweaks have been successfully applied to your system</string>
+    <string name="service_boot_title">Boot completed</string>
+    <string name="service_boot_content_small">Property updates were applied successfully</string>
+    <string name="service_boot_content_large">Tweaks have been successfully applied to the system</string>
 
 
     <!-- CPU -->
     <string name="cpu_widget_title">CPU</string>
 
-    <string name="cpu_governor_content_ondemand">One of the most used governor on linux old times: when your device is getting overloaded the CPU frequenzy will be ported at its max. Now it\'s getting replaced by interactive</string>
-    <string name="cpu_governor_content_ondemandx">Little improvements at the basic ondemand governor</string>
-    <string name="cpu_governor_content_performance">The CPU is always set to its maximum frequency</string>
-    <string name="cpu_governor_content_powersave">The CPU is always set to its minimum frequency</string>
-    <string name="cpu_governor_content_conservative">It slightly raises CPU performances when needed. Useful on old devices, reduced performances and amplified battery life</string>
-    <string name="cpu_governor_content_userspace">The frequency is decided by the applications that are in execution</string>
-    <string name="cpu_governor_content_minmax">Just uses max and min frequencies for handling the cpu, no middle ones</string>
-    <string name="cpu_governor_content_interactive">Default and best governor for most of the devices. Cpu frequency switch are ruled by a timer and user interaction</string>
-    <string name="cpu_governor_content_unknown">Custom kernel governor, not recognized by Androoster</string>
+    <string name="cpu_governor_content_ondemand">Used to be oe of the most used governors on Linux. When your device is getting overloaded, the CPU frequency will be ported at its max. It\'s getting replaced by interactive nowadays.</string>
+    <string name="cpu_governor_content_ondemandx">Little improvements to the basic ondemand governor.</string>
+    <string name="cpu_governor_content_performance">The CPU is always set to its maximum frequency.</string>
+    <string name="cpu_governor_content_powersave">The CPU is always set to its minimum frequency.</string>
+    <string name="cpu_governor_content_conservative">Slightly raises CPU performance when needed. On old devices, it reduces performance, but extends battery life.</string>
+    <string name="cpu_governor_content_userspace">The frequency is decided by applications that are in execution.</string>
+    <string name="cpu_governor_content_minmax">Only uses min and max frequencies for handling the cpu (no middle values).</string>
+    <string name="cpu_governor_content_interactive">Default and best governor for most devices. CPU frequency switch is ruled by a timer and user interaction.</string>
+    <string name="cpu_governor_content_unknown">Custom kernel governor not recognized by Androoster.</string>
 
 
     <string name="cpu_cache_title">App cache optimization</string>
@@ -268,27 +268,27 @@
     <string name="cpu_cache_toast_off">Enables dalvik-cache built-in optimization features</string>
 
 
-    <string name="cpu_cache_dialog_title">Wipe dalvik cache</string>
-    <string name="cpu_cache_dialog_content">Changes are applied, but them will take effect if you wipe dalvik cache and reboot now. Else new profile will be applied per-app</string>
-    <string name="cpu_cache_dialog_content_xposed">Xposed can give some problems, proceed with caution.</string>
+    <string name="cpu_cache_dialog_title">Wipe dalvik-cache</string>
+    <string name="cpu_cache_dialog_content">Changes are applied, but will only take effect if you reboot right after wiping. Othwrwise, new profiles will be applied per-app.</string>
+    <string name="cpu_cache_dialog_content_xposed">Xposed can cause some problems; proceed with caution.</string>
     <string name="cpu_cache_dialog_positive">WIPE AND REBOOT</string>
 
-    <string name="cpu_cache_dialog_working_title">Cleaning...</string>
-    <string name="cpu_cache_dialog_working_content">Wiping dalvik cache and rebooting...</string>
+    <string name="cpu_cache_dialog_working_title">Cleaning…</string>
+    <string name="cpu_cache_dialog_working_content">Wiping dalvik-cache and rebooting…</string>
 
 
-    <string name="cpu_optimization_title">CPU Usage Optimization</string>
-    <string name="cpu_optimization_content">Boosts CPU when you need power and reduce it when unnecessary</string>
+    <string name="cpu_optimization_title">CPU usage optimization</string>
+    <string name="cpu_optimization_content">Boosts CPU when you need power, and reduces it when you don\'t.</string>
     <string name="cpu_optimization_toast_on">Optimization on</string>
     <string name="cpu_optimization_toast_off">Optimization off</string>
 
     <string name="cpu_internal_exec_title">Runtime Improvements</string>
     <string name="cpu_internal_exec_content">Modifies internal system parameters to make apps smoother and lag-free</string>
-    <string name="cpu_internal_exec_toast_on">Applied performances tweaks</string>
-    <string name="cpu_internal_exec_toast_off">Disabled performances tweaks</string>
+    <string name="cpu_internal_exec_toast_on">Applied performance tweaks</string>
+    <string name="cpu_internal_exec_toast_off">Disabled performance tweaks</string>
 
-    <string name="cpu_boost_title">Tune CPU performances</string>
-    <string name="cpu_boost_content">Tunes CPU performances to have a faster execution, uses a bit of extra battery</string>
+    <string name="cpu_boost_title">Tune CPU performance</string>
+    <string name="cpu_boost_content">Tunes CPU performance to have faster execution, but uses a bit of extra battery</string>
 
     <string name="cpu_governor_1">Interactive</string>
     <string name="cpu_governor_1_switch">Governor switched to interactive</string>
@@ -306,19 +306,19 @@
     <string name="cpu_governor_7_switch">Governor switched to ondemand</string>
 
     <string name="cpu_warning_title">Warning</string>
-    <string name="cpu_warning_content">If the governor is not applied is because your kernel does not support it\nThe current governor is shown in the table here above</string>
+    <string name="cpu_warning_content">If the governor isn\'t applied, it\'s likely because your kernel doesn\'t support it.\nThe current governor is shown in the table above</string>
     <!-- /CPU -->
 
 
     <!-- RAM -->
     <string name="ram_widget_title">RAM</string>
-    <string name="ram_widget_ram">Ram</string>
+    <string name="ram_widget_ram">RAM</string>
     <string name="ram_widget_heap">Heapsize</string>
     <string name="ram_widget_check">Hardware</string>
 
     <string name="ram_profile_title">Profiles</string>
     <string name="ram_profile_dialog_title">Choose a profile</string>
-    <string name="ram_profile_content">Choose the option that you like the most and let us to think about everything else</string>
+    <string name="ram_profile_content">Choose the option that you like the most and let us handle the rest :)</string>
 
     <string name="ram_runtime_title">Runtime tuner</string>
     <string name="ram_runtime_content_dalvik">heapsize</string>
@@ -328,23 +328,23 @@
     <string name="ram_runtime_content_growth_limit">heap growth limit</string>
     <string name="ram_runtime_content_flags">dexopt flags</string>
 
-    <string name="ram_release_title">Auto-Release</string>
-    <string name="ram_release_content">Android automatically cleans-up memory from unused services, processes and tasks</string>
+    <string name="ram_release_title">Auto-release</string>
+    <string name="ram_release_content">Android automatically cleans up memory from unused services, processes, and tasks</string>
 
     <string name="ram_multitasking_title">Multitasking tweaks</string>
-    <string name="ram_multitasking_content">Keep memory fresh and as free as possible, to make everything fluid. May reduce battery</string>
+    <string name="ram_multitasking_content">Keep memory as fresh and free as possible to make everything more fluid. May reduce battery.</string>
 
     <string name="ram_smooth_title">Smooth UI</string>
-    <string name="ram_smooth_content">Tweaks to make scroll and navigation cleaner, smoother and responsive</string>
+    <string name="ram_smooth_content">Tweaks to make scrolling and navigation cleaner, smoother, and more responsive</string>
 
-    <string name="ram_lmk_title">Low Memory Killer</string>
-    <string name="ram_lmk_content">Android memory manager that automatically manages memory, here you can change the profile</string>
+    <string name="ram_lmk_title">Low memory killer</string>
+    <string name="ram_lmk_content">Android memory manager that automatically manages memory; you can change the profile here</string>
 
     <string name="ram_zram_title">Zram service</string>
-    <string name="ram_zram_content">Enable native memory packaging (zram) to gain device general better performances</string>
+    <string name="ram_zram_content">Enables native memory packaging (zram) for better overall device performance</string>
 
     <string name="ram_keep_alive_title">Never kill launcher</string>
-    <string name="ram_keep_alive_content">Always keep launcher in memory to avoid reloads and have a fast experience on the home screen</string>
+    <string name="ram_keep_alive_content">Always keep launcher in memory to avoid reloads and have a faster home screen experience</string>
 
     <string name="ram_tweak_1">Reduced</string>
     <string name="ram_tweak_2">Normal</string>
@@ -362,20 +362,18 @@
     <string name="ram_runtime_3">Medium</string>
     <string name="ram_runtime_4">Strong</string>
     <string name="ram_runtime_5">Extreme</string>
-    <string name="ram_runtime_switch">Runtime profile switched %p</string>
+    <string name="ram_runtime_switch">Runtime profile switched to %p</string>
     <string name="ram_not_enough">Not enough memory to activate the selected profile</string>
 
     <string name="ram_lmk_1">Default</string>
-    <string name="ram_lmk_2">Very light  (Very little RAM)</string>
-    <string name="ram_lmk_3">Light  (Little RAM)</string>
-    <string name="ram_lmk_4">Normal  (Medium RAM)</string>
-    <string name="ram_lmk_5">Aggressive  (Big RAM)</string>
-    <string name="ram_lmk_6">Very Aggressive  (Very Big RAM)</string>
-    <string name="ram_lmk_7">Insane  (Extreme RAM)</string>
+    <string name="ram_lmk_2">Very light (Very little RAM)</string>
+    <string name="ram_lmk_3">Light (Little RAM)</string>
+    <string name="ram_lmk_4">Normal (Medium RAM)</string>
+    <string name="ram_lmk_5">Aggressive (Extra RAM)</string>
+    <string name="ram_lmk_6">Very aggressive (Extra extra RAM)</string>
+    <string name="ram_lmk_7">Insane (Extreme RAM)</string>
 
     <string name="ram_lmk_switch">New LMK profile applied</string>
-
-
     <!-- /RAM -->
 
 
@@ -401,15 +399,15 @@
     <string name="battery_widget_state_dead">Dead</string>
 
     <string name="battery_statistics_title">Clean statistics</string>
-    <string name="battery_statistics_content">Erase battery stats files</string>
+    <string name="battery_statistics_content">Erases battery stat files</string>
     <string name="battery_statistics_success">Battery statistics erased successfully</string>
-    <string name="battery_statistics_just_wiped">Already wiped, this action should be performed once per month</string>
+    <string name="battery_statistics_just_wiped">Already wiped; this action really only needs to be performed around once per month</string>
 
     <string name="battery_stats_title_100">Wipe statistics?</string>
-    <string name="battery_stats_content_100">Your device statistics will be cleaned and your battery will gain a better duration</string>
+    <string name="battery_stats_content_100">Your device statistics will be cleaned, and your battery will live longer</string>
 
     <string name="battery_stats_title_not_100">Warning</string>
-    <string name="battery_stats_content_not_100">Your device has not reached 100% of total charge. Deleting battery statistics now may harm the operative system. Continue or wait until full recharge?</string>
+    <string name="battery_stats_content_not_100">Your device has not reached 100%. Deleting battery statistics now could harm the operating system. Continue, or wait until fully charged?</string>
 
 
     <string name="battery_doze_title">Doze settings</string>
@@ -417,39 +415,39 @@
     <string name="battery_doze_open">OPEN</string>
 
     <string name="battery_services_title">Optimize services</string>
-    <string name="battery_services_content">Kills background services that are cpu-draining</string>
+    <string name="battery_services_content">Kills CPU-draining background services</string>
 
     <string name="battery_optimization_title">Battery optimization</string>
     <string name="battery_optimization_content">Optimizes android default settings to have less battery drain</string>
 
     <string name="battery_wifi_title">WiFi scan interval</string>
-    <string name="battery_wifi_content">Android uses this value to scan for new WiFi networks. The higher, the better for battery life</string>
+    <string name="battery_wifi_content">Android uses this value to scan for new WiFi networks. Higher is better for battery life.</string>
     <string name="battery_wifi_error">Invalid input</string>
-    <string name="battery_wifi_success">Wifi scan interval updated to %ss</string>
+    <string name="battery_wifi_success">WiFi scan interval updated to %ss</string>
     <string name="battery_wifi_dfu_seconds">10s</string>
-    <string name="battery_wifi_autoscan">Wifi autoscan interval</string>
+    <string name="battery_wifi_autoscan">WiFi autoscan interval</string>
     <string name="battery_wifi_max">The maximum value is 5 minutes</string>
     <string name="battery_wifi_low">Consider selecting a higher value</string>
 
     <string name="battery_sleep_title">Sleep mode</string>
-    <string name="battery_sleep_content">Uses lett battery when the screen is off</string>
+    <string name="battery_sleep_content">Use less battery when the screen is off</string>
 
     <string name="battery_fastcharge_title">Adaptive fast charging</string>
-    <string name="battery_fastcharge_content">Enables built-in fast charging (Works only for devices that support fast charging)</string>
+    <string name="battery_fastcharge_content">Enables built-in fast charging (works only for devices that support fast charging)</string>
 
     <string name="battery_fastcharge_wireless_title">Wireless fast charging</string>
-    <string name="battery_fastcharge_wireless_content">Enables built-in fast wireless charging (Works only for devices that support fast charging)</string>
+    <string name="battery_fastcharge_wireless_content">Enables built-in fast wireless charging (works only for devices that support fast charging)</string>
 
-    <string name="battery_drain_fix_google_title">Fix google battery drain</string>
-    <string name="battery_drain_fix_google_content">Fix google battery drain</string>
+    <string name="battery_drain_fix_google_title">Fix Google battery drain</string>
+    <string name="battery_drain_fix_google_content">Fix the battery-draining effect some Google apps can produce</string>
     <!-- /BATTERY -->
 
 
     <!-- KERNEL -->
-    <string name="kernel_widget_title">Kernel Details</string>
+    <string name="kernel_widget_title">Kernel details</string>
 
     <string name="kernel_tweaks_title">Kernel tweaks</string>
-    <string name="kernel_tweaks_content">Apply a large set of tweaks to maximize performances</string>
+    <string name="kernel_tweaks_content">Apply a bunch of various tweaks to increase performance</string>
 
     <string name="kernel_sleepers_title">Sleepers optimization</string>
     <string name="kernel_sleepers_content">Tweaks the way your phone handles processes</string>
@@ -458,34 +456,33 @@
     <string name="kernel_jni_content">Disables device extended JNI checks to execute tasks faster</string>
 
     <string name="kernel_panic_title">Kernel panic</string>
-    <string name="kernel_panic_content">If active, when the kernel crashes the device auto reboots after a timeout</string>
+    <string name="kernel_panic_content">If the kernel crashes, the device will auto-reboot after a timeout</string>
 
     <string name="kernel_delay_title">Reboot delay</string>
     <string name="kernel_delay_content">Defines how many seconds your device waits in case of crash</string>
 
     <string name="kernel_oops_title">Reboot on oops</string>
-    <string name="kernel_oops_content">Restarts the device if a system operation crashes. Not recommended</string>
+    <string name="kernel_oops_content">Restarts the device if a system operation crashes. This is not recommended, as it can be very inconvenient.</string>
 
-    <string name="kernel_entropy_title">Optimizes entropy</string>
-    <string name="kernel_entropy_content">Kernel entropy optimization</string>
+    <string name="kernel_entropy_title">Kernel entropy optimization</string>
+    <string name="kernel_entropy_content">Optimizes the kernel entropy</string>
 
     <string name="kernel_max_title">Max Threads</string>
     <string name="kernel_max_content">Maximum number of threads the device can allocate for a single task/application</string>
-    <string name="kernel_max_success">Maximum threads number updated</string>
-    <string name="kernel_error">Error, your device does not support this tweak</string>
+    <string name="kernel_max_success">Maximum thread number updated</string>
+    <string name="kernel_error">Your device does not support this tweak</string>
 
-    <string name="kernel_auto_reboot_success">Auto reboot delay now is %s seconds</string>
-    <string name="kernel_dfu_watchdog">60 Seconds</string>
+    <string name="kernel_auto_reboot_success">Auto-reboot delay is now %s seconds</string>
+    <string name="kernel_dfu_watchdog">60 seconds</string>
     <string name="kernel_auto_reboot_delay">Auto-reboot delay</string>
     <!-- /KERNEL -->
 
 
     <!-- NETWORK -->
-
     <string name="net_widget_title">Network Info</string>
 
-    <string name="net_dns_title">Use google DNS</string>
-    <string name="net_dns_content">Force using google\' dns servers for faster connection</string>
+    <string name="net_dns_title">Use Google DNS</string>
+    <string name="net_dns_content">Force the device to use Google\' DNS servers for faster connections</string>
 
     <string name="net_wifi_title">Increment WiFi speed</string>
     <string name="net_wifi_content">Enlarge buffers to speed up downloads and uploads</string>
@@ -494,21 +491,21 @@
     <string name="net_data_content">Extra buffer tweaks for mobile connections</string>
 
     <string name="net_tcp_title">TCP algorithm tweaks</string>
-    <string name="net_tcp_content">Select the best IPV4 algorithm settings to make network a little bit more fast</string>
+    <string name="net_tcp_content">Select the best IPV4 algorithm settings to speed up the network a bit</string>
 
     <string name="net_hostname_title">Hostname changer</string>
-    <string name="net_hostname_content">The hostname is your local network device name. You can see that if you scan your current network</string>
+    <string name="net_hostname_content">The hostname is your local network device name</string>
 
     <string name="net_signal_title">Signal tweaks</string>
     <string name="net_signal_content">Maximize signal detection and usability</string>
 
     <string name="net_voice_title">Better audio quality</string>
-    <string name="net_voice_content">Make calls at the best quality tweaking AMR audio codec</string>
+    <string name="net_voice_content">Make calls use the best quality AMR audio codec</string>
 
-    <string name="net_fast_dormancy_title">Fast Dormancy</string>
+    <string name="net_fast_dormancy_title">Fast dormancy</string>
     <string name="net_fast_dormancy_content">Enable fast dormancy on supported carriers</string>
 
-    <string name="net_changer_success">Success, current hostname is %h</string>
+    <string name="net_changer_success">Change successful; current hostname is %h</string>
 
     <string name="net_wideband_title">Use wideband</string>
     <string name="net_wideband_content">Use wideband to make connections faster</string>
@@ -516,8 +513,8 @@
     <string name="net_dialog_hostname_title">Network hostname</string>
     <string name="net_dialog_hostname_hint">Hostname</string>
     <string name="net_dialog_new_hostname">New hostname</string>
-    <string name="net_dialog_error_short">Too short hostname</string>
-    <string name="net_dialog_error_long">Hostname too long</string>
+    <string name="net_dialog_error_short">Hostname is too short</string>
+    <string name="net_dialog_error_long">Hostname is too long</string>
 
     <string name="net_widget_title_global">Network:</string>
     <string name="net_widget_title_wifi">WiFi:</string>
@@ -537,7 +534,7 @@
     <string name="hardware_widget_model">Model</string>
 
     <string name="dialog_dpi_changer_property">Device DPI</string>
-    <string name="dialog_dpi_changer_summary">Allows your screen to display more content</string>
+    <string name="dialog_dpi_changer_summary">Changes your screen\'s density-per-inch to whatever you set (caution: may break your device)</string>
     <string name="dialog_dpi_changer_dfu">[300–450]</string>
     <string name="dialog_dpi_changer_large">Consider selecting a lower number</string>
     <string name="dialog_dpi_changer_low">Consider selecting a higher number</string>
@@ -545,8 +542,8 @@
 
     <string name="hardware_change_dpi">Change DPI</string>
     <string name="hardware_wakeup_with_volume">Wake up with volume keys</string>
-    <string name="hardware_wakeup_always_on_title">Always on Buttons</string>
-    <string name="hardware_wakeup_always_on_content">If buttons are on, more battery will be wasted</string>
+    <string name="hardware_wakeup_always_on_title">Always-on buttons</string>
+    <string name="hardware_wakeup_always_on_content">If buttons are on, more battery will be spent</string>
     <string name="hardware_dialog_warning">Using unappropriated numbers may break your device</string>
 
     <string name="hardware_rotate_lockscreen_title">Lockscreen rotation</string>
@@ -555,11 +552,11 @@
     <string name="hardware_rotation_title">Enable 180° rotation</string>
     <string name="hardware_rotation_content">Enable device total rotation</string>
 
-    <string name="hardware_transparency_title">16 bit Transparency</string>
-    <string name="hardware_transparency_content">Enables 16-bit transparency, it may have UI modification but it will make GPU-bound tasks smoother</string>
+    <string name="hardware_transparency_title">16-bit transparency</string>
+    <string name="hardware_transparency_content">Enables 16-bit transparency. May modify UI but will make GPU-bound tasks smoother.</string>
 
     <string name="hardware_acceleration_title">Hardware acceleration</string>
-    <string name="hardware_acceleration_content">Force all apps to support Hardware Acceleration for better performances</string>
+    <string name="hardware_acceleration_content">Force all apps to support hardware acceleration for better performance</string>
     <!-- /HARDWARE -->
 
 
@@ -571,7 +568,7 @@
     <string name="storage_widget_storage">Storage</string>
 
     <string name="storage_fstrim_title">FSTrim</string>
-    <string name="storage_fstrim_content">Optimize your disk behavior trimming blocks which are not used by the filesystem</string>
+    <string name="storage_fstrim_content">Optimize your disk behavior, trimming blocks not used by the filesystem</string>
 
     <string name="storage_io_title">System I/O</string>
     <string name="storage_io_content">Boost every I/O operation on the system partition</string>
@@ -580,19 +577,19 @@
     <string name="storage_data_content">Boost every I/O operation on the data partition</string>
 
     <string name="storage_sd_title">SDCard boost</string>
-    <string name="storage_sd_content">Set the max available speed for sd cards if there are any</string>
+    <string name="storage_sd_content">Set the max available speed for sd cards (if there are any)</string>
 
     <string name="storage_ext4_title">Remount as ext4</string>
-    <string name="storage_ext4_content">Makes every filesystem partitions as an ext4 one to gain speed on I/O</string>
+    <string name="storage_ext4_content">Sets every filesystem partition to ext4 to gain speed on I/O</string>
     <string name="storage_ext4_mount">MOUNT</string>
     <string name="storage_ext4_already_did">Filesystems are now mounted as ext4</string>
-    <string name="storage_ext4_already_done">Filesystems already mounted with the best settings</string>
+    <string name="storage_ext4_already_done">Filesystems are already mounted as ext4</string>
 
     <string name="storage_fstrim_dialog_title">Fstrim</string>
     <string name="storage_fstrim_dialog_content">Checking for fstrim on your system...</string>
     <string name="storage_fstrim_dialog_not_found_title">Fstrim error</string>
-    <string name="storage_fstrim_dialog_not_found_content">fstrim is not installed on your system</string>
-    <string name="storage_fstrim_dialog_progress_title">Running fstrim</string>
+    <string name="storage_fstrim_dialog_not_found_content">Fstrim is not supported on your system</string>
+    <string name="storage_fstrim_dialog_progress_title">Running fstrim...</string>
     <string name="storage_fstrim_dialog_progress_prefix">Executing on</string>
 
     <string name="storage_fstrim_already_run">Fstrim already executed</string>
@@ -601,10 +598,10 @@
     <string name="storage_mounting_success">Filesystem mounted</string>
 
     <string name="storage_sdmaid_install_title">Install SDMaid</string>
-    <string name="storage_sdmaid_install_content">Clean up and manage your storage with the #1 tool on the Android market</string>
+    <string name="storage_sdmaid_install_content">Clean up and manage your storage with the #1 tool on the Play Store</string>
 
     <string name="storage_sdmaid_open_title">Open SDMaid</string>
-    <string name="storage_sdmaid_open_content">Clean up your system from unused files</string>
+    <string name="storage_sdmaid_open_content">Clean up unused files in the system</string>
 
     <string name="storage_system_supersu">SuperSU</string>
     <string name="storage_system_magisk">Magisk</string>
@@ -618,28 +615,28 @@
     <string name="graphic_widget_density">Density:</string>
 
     <string name="graphic_gpu_title">GPU Boost</string>
-    <string name="graphic_gpu_content">Heavily improves drawing operations performances by adjusting some systemui flags</string>
+    <string name="graphic_gpu_content">Heavily improves drawing operation performance by adjusting some systemui flags</string>
 
-    <string name="graphic_hw_title">Hardware Acceleration</string>
-    <string name="graphic_hw_content">Forces applications to enable native support to hardware acceleration</string>
+    <string name="graphic_hw_title">Hardware acceleration</string>
+    <string name="graphic_hw_content">Forces applications to enable native support for hardware acceleration</string>
 
     <string name="graphic_anim_title">Animations</string>
     <string name="graphic_anim_transition">Transition animation</string>
     <string name="graphic_anim_window">Window animation</string>
     <string name="graphic_anim_animator">Animator animation</string>
-    <string name="graphic_anim_content">Change animations speed</string>
+    <string name="graphic_anim_content">Change animation speed</string>
 
-    <string name="graphic_dpi_change_success">Current DPI is %dpi, reboot to apply!</string>
+    <string name="graphic_dpi_change_success">Current DPI is %dpi; reboot to apply</string>
     <string name="graphic_dpi_suffix">dpi</string>
 
     <string name="graphic_stagefright_title">Use native libraries</string>
-    <string name="graphic_stagefright_content">Enables system (secured) compiled libraries forfaster streaming</string>
+    <string name="graphic_stagefright_content">Enables system (secured) compiled libraries for faster streaming</string>
 
     <string name="graphic_rendering_title">GPU rendering</string>
-    <string name="graphic_rendering_content">Draw 2D layers using GPU. It lightens CPU tasks</string>
+    <string name="graphic_rendering_content">Draw 2D layers using GPU (lightens CPU tasks)</string>
 
     <string name="graphic_jpeg_title">JPEG top quality</string>
-    <string name="graphic_jpeg_content">Always extract the best-quality JPEG image (Gallery, websites, etc). It will use a little more ram</string>
+    <string name="graphic_jpeg_content">Always extract the best-quality JPEG image (gallery, websites, etc.). Uses a bit more RAM</string>
     <!-- /GRAPHIC -->
 
 
@@ -653,19 +650,19 @@
     <string name="debug_adb_content">Enable debug mode when USB is connected</string>
 
     <string name="debug_notification_title">Hide debug notification</string>
-    <string name="debug_notification_content">Do not show the notification when your device is connected with usb</string>
+    <string name="debug_notification_content">Do not show notification when device is connected with USB</string>
 
     <string name="debug_rpt_title">Disable error reporting</string>
-    <string name="debug_rpt_content">Disable built-in device error sent</string>
+    <string name="debug_rpt_content">Disable built-in device error sending</string>
 
     <string name="debug_logging_title">Disable error logging</string>
-    <string name="debug_logging_content">Disable constant debug events logging</string>
+    <string name="debug_logging_content">Disable constant debug event logging</string>
 
     <string name="debug_google_title">Disable tracking</string>
     <string name="debug_google_content">Disable built in tracking, saving speed and battery</string>
 
     <string name="debug_opt_title">Optimize debug services</string>
-    <string name="debug_opt_content">Adjust parameter to handle with less resources internal debug services</string>
+    <string name="debug_opt_content">Adjust parameter to handle internal debug services using less resources</string>
     <!-- /DEBUG -->
 
 
@@ -677,22 +674,22 @@
     <string name="security_widget_system">System:</string>
 
     <string name="security_oem_title">OEM Unlock</string>
-    <string name="security_oem_content">Allow OEM unlock, useful if you want to install custom recoveries, root and everything else</string>
+    <string name="security_oem_content">Allow OEM unlock (useful if you want to root, install custom recoveries, etc.)</string>
 
     <string name="security_bytecode_title">Disable bytecode check</string>
     <string name="security_bytecode_content">Disables runtime memory checks to make app execution faster</string>
 
     <string name="security_oom_title">Kernel OOM dump</string>
-    <string name="security_oom_content">Disabling can help performances when your devices encounter an oom crash</string>
+    <string name="security_oom_content">Disabling can help performance when your device encounters an OOM crash</string>
 
     <string name="security_adb_title">Disable ADB security</string>
-    <string name="security_adb_content">Disable security on adb shells</string>
+    <string name="security_adb_content">Disable security on ADB shells</string>
 
     <string name="security_system_title">Disable system security</string>
-    <string name="security_system_content">Disable general system security mechanism to improve performances</string>
+    <string name="security_system_content">Disable general system security mechanism to improve performance</string>
 
     <string name="security_unknown_title">Unknown sources</string>
-    <string name="security_unknown_content">Allow installation of apps from sources other than the play store</string>
+    <string name="security_unknown_content">Allow installation of apps from sources outside the Play Store</string>
 
     <string name="security_package_title">Package verification</string>
     <string name="security_package_content">Install applications using ADB without verifying packages</string>
@@ -701,9 +698,9 @@
 
     <!-- GPS -->
     <string name="gps_widget_title">GPS</string>
-    <string name="gps_widget_content">The Global Positioning System (GPS) is a satellite-based radionavigation system that provides geolocation and time information to a GPS receiver anywhere on or near the Earth</string>
+    <string name="gps_widget_content">The Global Positioning System (GPS) is a satellite-based radionavigation system that provides geolocation and time information to GPS receivers anywhere on or near the Earth</string>
 
-    <string name="gps_accuracy_title">GPS Accuracy</string>
+    <string name="gps_accuracy_title">GPS accuracy</string>
     <string name="gps_accuracy_content">Edit GPS accuracy in settings</string>
 
     <string name="gps_mock_title">Allow mock location</string>
@@ -716,10 +713,10 @@
 
 
     <string name="warningTextViewEditWifi">Interval</string>
-    <string name="sleepMode0">Sleep mode disabled, device won\'t go in sleep state</string>
-    <string name="sleepMode1">Aggressive Sleep Mode, device will minimize battery usage in stand-by</string>
-    <string name="sleepMode2">Medium Sleep Mode, device will only keep running core processes</string>
-    <string name="sleepMode3">Light mode, the default Android sleep mode</string>
+    <string name="sleepMode0">Sleep mode disabled (device won\'t go into sleep mode)</string>
+    <string name="sleepMode1">Aggressive sleep mode (device will minimize battery usage in standby)</string>
+    <string name="sleepMode2">Medium sleep mode (device will only keep core processes running)</string>
+    <string name="sleepMode3">Light mode (default Android sleep mode)</string>
 
 
     <!-- ABOUT -->
@@ -732,27 +729,27 @@
     <string name="andrea_cioccarelli">Andrea Cioccarelli</string>
     <string name="location">Italy, Lombardy</string>
     <string name="write_an_email">Send me an email</string>
-    <string name="add_to_google_plus_circles">Add to Google Plus circles</string>
+    <string name="add_to_google_plus_circles">Add to Google+ circles</string>
     <string name="follow_on_twitter">Follow on Twitter</string>
-    <string name="follow_on_github">Follow on Github</string>
-    <string name="visit_website">Visit Website</string>
-    <string name="support_development">Support Development</string>
-    <string name="special_thanks_to">Special thanks to</string>
+    <string name="follow_on_github">Follow on GitHub</string>
+    <string name="visit_website">Visit website</string>
+    <string name="support_development">Support development</string>
+    <string name="special_thanks_to">Special thanks to:</string>
     <string name="aidan_follestad">Aidan Follestad</string>
     <string name="aidan_follestad_summary">For the dialogs library and some other great stuff</string>
     <string name="karim_abou_zeid">Karim Abou Zeid</string>
-    <string name="karim_abou_zeid_summary">For this beautiful page and the Theme Engine</string>
+    <string name="karim_abou_zeid_summary">For this beautiful page and the theme engine</string>
     <string name="rate_on_play_store">Rate on Play Store</string>
-    <string name="rate_on_play_store_summary">If you like Androoster let a good review</string>
+    <string name="rate_on_play_store_summary">If you like Androoster, why not leave a nice review? :)</string>
     <string name="quick_actions">Quick Actions</string>
-    <string name="join_community">Google Plus Community</string>
-    <string name="join_community_summary">You will find the anweres for your questions about Androoster here</string>
+    <string name="join_community">Google+ Community</string>
+    <string name="join_community_summary">You can ask questions and find answers about Androoster here</string>
     <string name="report_bugs">Bug Tracker</string>
-    <string name="report_bugs_summary">Report bugs or request new features</string>
-    <string name="check_for_updates">Check for Updates</string>
-    <string name="check_for_updates_summary">From the Google Play Store server</string>
+    <string name="report_bugs_summary">Report bugs/request new features</string>
+    <string name="check_for_updates">Check For Updates</string>
+    <string name="check_for_updates_summary">From the Play Store server</string>
     <string name="app_details">App Details</string>
-    <string name="app_details_summary">Jump in the Settings app\'s page</string>
+    <string name="app_details_summary">Jump to the app\'s page in Settings</string>
     <string name="licenses">Licenses</string>
     <string name="changelog_title">Changelog</string>
     <string name="translators_title">Translators</string>
@@ -761,35 +758,35 @@
     <string name="intro_title">Intro</string>
 
     <string name="twitter">TWITTER</string>
-    <string name="google_plus">GOOGLE PLUS</string>
+    <string name="google_plus">GOOGLE+</string>
     <string name="git_hub">GITHUB</string>
     <string name="play_store">PLAY STORE</string>
     <string name="website">WEBSITE</string>
 
     <string name="about_libraries">Libraries</string>
-    <string name="about_translations">Transltions</string>
+    <string name="about_translations">Translations</string>
     <string name="about_translations_positive">SUBMIT YOUR TRANSLATION</string>
 
     <string name="about_translation_promo_title">Translation promotion</string>
-    <string name="about_translation_promo_content">Help us translating Androoster and get back a promotion code to evaluate your version for free</string>
+    <string name="about_translation_promo_content">Help us translate Androoster, and get a promotion code to evaluate your version for free</string>
     <!-- /ABOUT -->
 
 
     <!-- GENERAL -->
     <string name="general_disable_boot_title">Disable Bootanimation</string>
     <string name="general_disable_quickboot_title">Quickboot</string>
-    <string name="general_disable_quickboot_content">May harm/interfere with the operations of some root-applications, but it will drastically improve boot time (Turn on if you know what you are doing)</string>
+    <string name="general_disable_quickboot_content">May harm/interfere with the operations of some root applications, but will drastically improve boot time (turn on only if you know what you are doing)</string>
 
     <string name="general_touches_title">Max touches</string>
-    <string name="general_touches_content">The maximus number of touches that the system can handle</string>
+    <string name="general_touches_content">The maximum number of touches that the system can handle</string>
     <string name="general_black_screen_title">Fix black screen after call</string>
     <string name="general_call_delay_title">Clear call delay</string>
-    <string name="general_call_delay_content">Your phone will ring as soon as it will get the call</string>
+    <string name="general_call_delay_content">Your phone will ring as soon as it gets the call</string>
     <!-- /GENERAL -->
 
     <!-- BOOT -->
     <string name="boot_cannot_get_permissions_title">Permissions denied</string>
-    <string name="boot_cannot_get_permissions_content">We cannot start Androoster because we are missing some permissions. If you want to use Androoster you can allow them and then we will start up for you</string>
+    <string name="boot_cannot_get_permissions_content">We cannot start Androoster because we are missing some permissions. You will have to allow them for Androoster to work as intended.</string>
     <string name="boot_cannot_get_permissions_allow">ALLOW</string>
     <string name="boot_cannot_get_permissions_close">CLOSE</string>
     <!-- /BOOT -->
@@ -803,7 +800,7 @@
     <string name="pref_button_position_title">Button position</string>
     <string name="pref_animations_title">Enable Animations</string>
     <string name="pref_drawer_sticky_settings_title">Drawer sticky settings</string>
-    <string name="pref_drawer_sticky_settings_content">Showa persistent settings item</string>
+    <string name="pref_drawer_sticky_settings_content">Show a persistent settings item</string>
 
     <string name="pref_open_drawer_fab">Show open drawer button</string>
     <string name="pref_open_drawer_fab_position">Open drawer button position</string>
@@ -817,13 +814,13 @@
 
     <string name="light_theme_name">Light</string>
     <string name="dark_theme_name">Dark</string>
-    <string name="amoled_theme_name">Amoled</string>
+    <string name="amoled_theme_name">AMOLED</string>
 
 
     <string name="settings_lock_title">Lock Androoster</string>
     <string name="settings_unlock_title">Unlock Androoster</string>
     <string name="settings_unlocking_title">Unlocking Androoster...</string>
-    <string name="settings_unlocking_content">Restoring workspace and encryption at the default state...</string>
+    <string name="settings_unlocking_content">Restoring workspace and encryption to default state...</string>
     <string name="settings_updating_security">Updating workspace...</string>
     <string name="settings_decrypt_security">Decrypting...</string>
     <string name="settings_encrypt_security">Encrypting...</string>
@@ -849,11 +846,11 @@
     <string name="dialog_missing_password_confirm">Missing password confirmation</string>
     <string name="dialog_short_pin">Short PIN</string>
     <string name="dialog_short_password">Short password</string>
-    <string name="dialog_contain_pin">The hint cannot contain the pin</string>
-    <string name="dialog_contain_password">The hint cannot contain the password</string>
-    <string name="dialog_weak_pin">Weak pin</string>
+    <string name="dialog_contain_pin">Hint cannot contain the PIN</string>
+    <string name="dialog_contain_password">Hint cannot contain the password</string>
+    <string name="dialog_weak_pin">Weak PIN</string>
     <string name="dialog_weak_password">Weak password</string>
-    <string name="dialog_long_hint">Hint too long</string>
+    <string name="dialog_long_hint">Hint is too long</string>
 
     <string name="dialog_disabled_title">Password protection disabled</string>
     <string name="dialog_disabled_content">No authentication needed to unlock Androoster</string>
@@ -861,7 +858,7 @@
     <string name="dialog_auth_success">Authentication successful</string>
     <string name="dialog_auth_error">No match</string>
 
-    <string name="pref_fingerprint_title">Login using Fingerprint</string>
+    <string name="pref_fingerprint_title">Login using fingerprint</string>
     <string name="pref_fingerprint_content_on">Fingerprint will be used as primary login method</string>
     <string name="pref_fingerprint_content_off">Fingerprint authentication disabled</string>
     <string name="pref_show_hint_title">Show the password hint</string>
@@ -874,16 +871,16 @@
     <string name="dialog_no_fingerprint">No registered fingerprints on this device</string>
 
     <string name="pref_theme">Theme</string>
-    <string name="pref_primary_description">The application main color</string>
-    <string name="pref_accent_description">An accent color for the theme</string>
+    <string name="pref_primary_description">Main color of application</string>
+    <string name="pref_accent_description">Accent color for theme</string>
     <string name="pref_tint_toasts_title">Tint toasts</string>
     <string name="pref_tint_toasts_content_on">Show colored toasts</string>
     <string name="pref_tint_toasts_content_off">Toast color will always be the same</string>
     <string name="pref_dynamic_toasts_title">Change color basing on content</string>
-    <string name="pref_dynamic_toasts_content_on">Theme toast basing on their content</string>
-    <string name="pref_dynamic_toasts_content_off">Toast color will always be the accent color</string>
+    <string name="pref_dynamic_toasts_content_on">Theme toasts based on their content</string>
+    <string name="pref_dynamic_toasts_content_off">Toast color will always be accent color</string>
     <string name="pref_tint_navigation_title">Colored navigation bar</string>
-    <string name="pref_tint_navigation_content">Using the primary color</string>
+    <string name="pref_tint_navigation_content">Use primary color</string>
     <string name="pref_built_themes">Built-in themes</string>
     <string name="pref_pro_required">Pro version required</string>
 
@@ -927,13 +924,13 @@
     <!-- /SETTINGS -->
 
     <!-- UPGRADE -->
-    <string name="upgrade_purchase_error">Error while communicating with the store</string>
+    <string name="upgrade_purchase_error">Error while communicating with Play Store</string>
     <string name="upgrade_purchase_manager_title">Missing Google Play Store</string>
-    <string name="upgrade_purchase_manager_content">Google Play Store is not installed and you cannot purchase the pro version</string>
+    <string name="upgrade_purchase_manager_content">Google Play Store is not installed; you cannot purchase the pro version without it</string>
 
     <string name="upgrade_purchase_ok">Androoster Pro activated!</string>
     <string name="upgrade_text">UPGRADE</string>
-    <string name="upgrade_title">Androoster PRO</string>
+    <string name="upgrade_title">Androoster Pro</string>
     <string name="upgrade_separator_text">Features</string>
 
     <string name="upgrade_already_pro_title">Already bought</string>
@@ -945,21 +942,20 @@
     <string name="upgrade_item_3">Unleash full settings</string>
     <string name="upgrade_item_4">Use custom themes</string>
     <string name="upgrade_item_5">Support the app</string>
-
     <!-- /UPGRADE -->
 
     <!-- INTRO -->
     <string name="intro_1_title">Androoster</string>
-    <string name="intro_1_content">An android native, super-reactive and lightning-fast operative system tweaker</string>
-    <string name="intro_2_title">How it works</string>
-    <string name="intro_2_content">Androoster will require root access to execute the available tweaks</string>
+    <string name="intro_1_content">A native, super-reactive, and lightning-fast tweaker for the Android operating system.</string>
+    <string name="intro_2_title">How does it work?</string>
+    <string name="intro_2_content">Androoster requires root access to work, as it changes system properties that cannot be accessed without it.</string>
     <string name="intro_3_title">Apply</string>
-    <string name="intro_3_content">Every tweak is instantly applied. however to feel the result you have to reboot your device after editing the values</string>
+    <string name="intro_3_content">Every tweak is instantly applied, but you may have to reboot your device after editing the values to see the effects.</string>
     <string name="intro_4_title">Backup</string>
-    <string name="intro_4_content">Every tweak is reversible, you can easily manage backups in the apposite section</string>
+    <string name="intro_4_content">Every tweak is reversible; you can easily manage backups in the Backup section.</string>
     <string name="intro_5_title">Warning</string>
-    <string name="intro_5_content">Also if this app is 100% secure, make sure to know what you are doing. I won\'t be responsible for any kind of issue you may meet on your way</string>
-    <string name="intro_go">LET\'S GO!</string>
+    <string name="intro_5_content">Some tweaks may render your device unusable, so please make sure to know what you are doing. I won\'t be responsible for any kind of issue you may meet, as system configurations can vary wildly between devices.</string>
+    <string name="intro_go">BEGIN</string>
     <string name="intro_skip">SKIP</string>
     <!-- /INTRO -->
 

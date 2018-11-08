@@ -1,7 +1,7 @@
 
 Androoster
 
-This is the right place if you have a bug report, if you need assistance or if you want to translate Androoster in your own language. Create an issue for everything you need or made a pull request for translations.
+This is the right place if you have a bug report, if you need assistance, or if you want to translate Androoster in your own language. Create an issue for everything you need, or make a pull request for translations.
 
 Currently pending languages for translations:
 
@@ -13,4 +13,3 @@ Currently pending languages for translations:
 - [ ] FRENCH (fr)
 - [x] CHINESE (zh-cn)
 - [ ] ARABIC (ar-ae)
-
